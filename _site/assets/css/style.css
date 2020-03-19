@@ -1,0 +1,108 @@
+.bg-dark-green {
+  background-color: #00a388; }
+
+h2 {
+  color: #00a388;
+  font-weight: 900; }
+
+.btn {
+  border: none;
+  border-radius: 5px;
+  padding: 10px 30px 10px 30px; }
+  .btn.btn-primary {
+    background-color: #00a388; }
+
+body {
+  font-family: "Fira Sans", sans-serif;
+  border-top: 5px solid #beeb9f; }
+
+section {
+  margin-top: 80px;
+  padding-left: 15px;
+  padding-right: 15px; }
+  section .section-title {
+    margin-bottom: 20px; }
+    section .section-title:after {
+      content: "";
+      display: block;
+      width: 10%;
+      padding-top: 10px;
+      border-bottom: 4px solid #79bd8f; }
+
+.container-fluid {
+  padding: 0px; }
+
+header#header .hero {
+  height: 400px;
+  background-color: #00a388;
+  color: #beeb9f;
+  padding-top: 60px;
+  text-align: center; }
+header#header h1 {
+  color: white;
+  font-weight: 500;
+  font-style: italic; }
+header#header .jumbotron {
+  min-height: 250px;
+  background-color: white;
+  margin-top: -110px;
+  padding: 50px 100px 70px 100px;
+  border: 1px solid #beeb9f; }
+header#header .input-group {
+  padding: 10px;
+  border-radius: 5px;
+  background: rgba(46, 196, 9, 0.4); }
+  header#header .input-group input {
+    background: transparent;
+    border: none; }
+    header#header .input-group input:focus {
+      box-shadow: none;
+      background: transparent; }
+  header#header .input-group button {
+    border-radius: 5px !important; }
+
+.media-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 60px;
+  background-color: #ffff9d;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+  .media-image p {
+    color: #00a388;
+    font-size: 40px;
+    font-weight: 800; }
+
+#how-it-works .media {
+  background-color: #00a388;
+  box-shadow: inset 0px 0px 20px #79bd8f;
+  border: 1px solid #79bd8f;
+  margin-top: 20px;
+  padding: 40px;
+  border-radius: 20px;
+  color: white; }
+  #how-it-works .media .media-title {
+    font-style: italic; }
+  #how-it-works .media .media-content {
+    font-weight: 300; }
+
+#team {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: white; }
+  #team .section-title {
+    color: white; }
+  #team .card {
+    background-color: transparent; }
+    #team .card img {
+      border-radius: 20px; }
+    #team .card .card-title {
+      font-weight: 500;
+      font-style: italic; }
+    #team .card .card-body {
+      background-color: transparent;
+      font-weight: 300; }
+
+#call-to-action .jumbotron {
+  background-color: transparent; }

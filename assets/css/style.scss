@@ -1,0 +1,168 @@
+---
+---
+
+@import "variables";
+
+.bg-dark-green {
+  background-color: $dark-green;
+}
+
+h2 {
+  color: $dark-green;
+  font-weight: $secondary-font-weight;
+}
+
+.btn {
+  border: none;
+  border-radius: 5px;
+  padding: 10px 30px 10px 30px;
+
+  &.btn-primary {
+    background-color: $dark-green;
+  }
+}
+
+body {
+  font-family: "Fira Sans", sans-serif;
+  border-top: 5px solid $light-green;
+}
+
+section {
+  margin-top: 80px;
+  padding-left: 15px;
+  padding-right: 15px;
+
+  .section-title {
+    margin-bottom: 20px;
+
+    &:after {
+      content: "";
+      display: block;
+      width: 10%;
+      padding-top: 10px;
+      border-bottom: 4px solid $soft-green;
+    }
+  }
+}
+
+.container-fluid {
+  padding: 0px;
+}
+
+.jumbotron {
+}
+
+header#header {
+  .hero {
+    height: 400px;
+    background-color: $dark-green;
+    color: $light-green;
+    padding-top: 60px;
+    text-align: center;
+  }
+
+  h1 {
+    color: white;
+    font-weight: 500;
+    font-style: italic;
+  }
+
+  .jumbotron {
+    min-height: 250px;
+    background-color: white;
+    //box-shadow: 0px 0px 10px $light-green;
+    margin-top: -110px;
+    padding: 50px 100px 70px 100px;
+    border: 1px solid $light-green;
+  }
+
+  .input-group {
+    padding: 10px;
+    border-radius: 5px;
+    background: rgba(46, 196, 9, 0.4);
+
+    input {
+      background: transparent;
+      border: none;
+
+      &:focus {
+        box-shadow: none;
+        background: transparent;
+      }
+    }
+
+    button {
+      border-radius: 5px !important;
+    }
+  }
+}
+
+.media-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 60px;
+  background-color: $light-yellow;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  p {
+    color: $dark-green;
+    font-size: 40px;
+    font-weight: 800;
+  }
+}
+
+#how-it-works {
+  .media {
+    background-color: $dark-green;
+    box-shadow: inset 0px 0px 20px $soft-green;
+    border: 1px solid $soft-green;
+    margin-top: 20px;
+    padding: 40px;
+    border-radius: 20px;
+    color: white;
+
+    .media-title {
+      font-style: italic;;
+    }
+    
+    .media-content {
+      font-weight: 300;
+    }
+
+  }
+}
+
+#team {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: white;
+  .section-title {
+    color: white;
+  }
+
+  .card {
+    background-color: transparent;
+    
+    img {
+      border-radius: 20px;
+    }
+
+    .card-title {
+      font-weight: 500;
+      font-style: italic;
+    }
+
+    .card-body {
+      background-color: transparent;
+      font-weight: 300;
+    }
+  }
+}
+
+#call-to-action {
+  .jumbotron {
+    background-color: transparent;
+  }
+}

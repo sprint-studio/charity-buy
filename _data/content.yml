@@ -1,0 +1,7 @@
+team:
+    - name: "Davide Sicignani"
+      description: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+      image: "assets/img/davide-sicignani-web-developer.jpg"
+    - name: "Edoardo Erriu"
+      description: "Da sempre ho approcciato il marketing con un approccio etico e con forti implicazioni sociali. Ogni giorno do il massimo di me stesso perchè so che un’azienda che cresce assume più persone e aumenta il valore della comunità di cui fa parte."
+      image: "assets/img/edoardo-maria-erriu-web-marketing.jpg"
