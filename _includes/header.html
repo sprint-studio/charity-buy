@@ -6,12 +6,9 @@
         <div class="row">
           <div class="col-md-2"></div>
           <div class="col-sm-12 col-md-8">
-            <h1>Ogni mese supportiamo una giusta causa</h1>
+            <h1>{{ site.data.content.header.headline }}</h1>
             <p class="lead">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut
+              {{ site.data.content.header.sub-headline }}
             </p>
           </div>
         </div>
@@ -22,25 +19,18 @@
     <div class="col-lg-3"></div>
     <div class="col-sm-12 col-lg-6">
       <div class="jumbotron text-center">
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillu
-        </p>
         <form>
           <div class="input-group">
             <input
               type="text"
               class="form-control"
-              placeholder="Inserisci l'url del prodotto che vuoi acquistare"
-              aria-label="Recipient's username"
+              placeholder="{{ site.data.content.header.placeholder }}"
+              aria-label=""
               aria-describedby="basic-addon2"
             />
             <div class="input-group-append">
               <button class="btn btn-success" type="button">
-                Go to Amazon
+                {{ site.data.content.header.btn-txt }}
               </button>
             </div>
           </div>

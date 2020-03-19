@@ -1,7 +1,53 @@
+header:
+  headline: "Rendi ogni tuo acquisto un piccolo, concreto contributo per il mondo"
+  sub-headline: "Finanzia progetti benefici con ogni tuo acquisto su Amazon effettuato tramite NOME PROGETTO.<br>Senza dover aggiungere niente."
+  placeholder: "Incolla qui il link del prodotto che vuoi acquistare"
+  btn-txt: "Acquistalo ora"
+
+how-it-works:
+  section-title: "Come funziona NOME PROGETTO"
+  section-content: 
+    paragraphs:
+      - "Com’è possibile che grazie ai tuoi acquisti puoi fare una donazione?" 
+      - "In qualità di Affiliato Amazon, NOME PROGETTO riceverà un guadagno dagli acquisti idonei. Non ti verrà addebitato nessun costo aggiuntivo."
+  primary-btn-text: ""
+  secondary-btn-text: ""
+  sub-sections:
+    - section-title: "Come trasformare i tuoi acquisti in una donazione"
+      section-content: 
+        paragraphs:
+          - "Nella barra dedicata inserisci il link del prodotto che vuoi acquistare."
+          - "Clicca sul bottone “Acquistalo ora”, che ti rimanderà alla stessa pagina prodotto di Amazon, passaggio necessario per tramutare il tuo acquisto in una donazione."
+          - "Goditi l’esperienza di acquisto di Amazon. Da questo momento in poi potrai aggiungere eventuali altri prodotti e terminare il tuo acquisto. <br><b>Attenzione:</b> ti consigliamo di completare l’acquisto entro 24 ore." 
+    - section-title: "Trasparenza"
+      section-content:
+        paragraphs:
+          - "Nella vita di tutti i giorni siamo consulenti, perciò sappiamo quanto sia fondamentale instaurare un rapporto di fiducia con le persone, specialmente quando ci sono di mezzo i soldi. Per questo motivo ogni mese pubblicheremo un resoconto del ricavato dalle donazioni e il piano di come andremo ad utilizzarli, in modo da renderti partecipe dei piccoli ma significativi passi che stiamo compiendo tutti assieme."
+
+what-is:
+  section-title: "Cos’è NOME PROGETTO"
+  section-content: 
+    paragraphs:
+      - "Gli ultimi tragici avvenimenti come gli incendi in Australia, lo scioglimento dei ghiacciai e del permafrost in Antartide e la pandemia del COVID-19 ci hanno fatto riflettere più del solito. Ci hanno fatto capire quanto il nostro ecosistema e la nostra società siano fragili, motivo per cui ora più che mai dobbiamo impegnarci nel cercare di arginare questo problema."
+      - "Aiutare il pianeta con il consumismo, noto per la sua attitudine poco ecologista, non è certo il massimo. Però ti invito a fare questo ragionamento: pur sapendo che le principali aziende attive online hanno un’impronta di carbonio elevata, ti ha mai fermato dall’effettuare un acquisto?"
+      - "Sapere che Amazon nel 2018 ha generato 44.40 milioni di tonnellate metriche di CO2 [Fonte: Amazon] (lascia che lo rappresenti con gli zeri: 4.440.000.000.000.000 di grammi di CO2 generati, sono tanti vero?), ti fermerà adesso dal fare acquisti?"
+      - "Non possiamo impedire alle persone di acquistare nè tantomeno abbiamo la capacità di cambiare il mondo, stiamo solo cercando di sfruttare questa situazione per fare del bene, a costo (pressochè) zero e con pochissimo sforzo da parte tua."
+      - "<mark>Non ti spingeremo ad acquistare di più</mark>"
+      - "Vogliamo infatti che utilizzi NOME PROGETTO soltanto in caso di necessità, ovvero ogni volta che dovrai acquistare un prodotto."
+  primary-btn-text: ""
+  secondary-btn-text: ""
+
+why:
+  - section-title: "Cos’è NOME PROGETTO"
+    section-content: ""
+    primary-btn-text: ""
+    secondary-btn-text: ""
+
 team:
-    - name: "Davide Sicignani"
-      description: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
-      image: "assets/img/davide-sicignani-web-developer.jpg"
-    - name: "Edoardo Erriu"
-      description: "Da sempre ho approcciato il marketing con un approccio etico e con forti implicazioni sociali. Ogni giorno do il massimo di me stesso perchè so che un’azienda che cresce assume più persone e aumenta il valore della comunità di cui fa parte."
-      image: "assets/img/edoardo-maria-erriu-web-marketing.jpg"
+  - name: "Davide Sicignani"
+    description: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    image: "assets/img/davide-sicignani-web-developer.jpg"
+  - name: "Edoardo Erriu"
+    description: "Da sempre ho approcciato il marketing con un approccio etico e con forti implicazioni sociali. Ogni giorno do il massimo di me stesso perchè so che un’azienda che cresce assume più persone e aumenta il valore della comunità di cui fa parte."
+    image: "assets/img/edoardo-maria-erriu-web-marketing.jpg"
+      
