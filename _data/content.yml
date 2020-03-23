@@ -37,17 +37,38 @@ what-is:
   primary-btn-text: ""
   secondary-btn-text: ""
 
-why:
-  - section-title: "Cos’è NOME PROGETTO"
-    section-content: ""
-    primary-btn-text: ""
-    secondary-btn-text: ""
+target:
+  section-title: "A chi è rivolto NOME PROGETTO"
+  section-content:
+    paragraphs:
+      - "NOME PROGETTO può essere utilizzato da chiunque acquisti su Amazon e vuole essere parte attiva del cambiamento."
+      - "Ci vorrà pazienza, occorrerà infatti del tempo per vedere i primi risultati. Vogliamo dare il nostro concreto aiuto, tutti insieme, alla ricerca scientifica, ai progetti di rimboschimento, agli aiuti umanitari, ai progetti di sviluppo sociale e in generale ad ogni iniziativa che nel lungo periodo sortirà effetti benefici su tutti noi, direttamente o indirettamente."
+      - "Vogliamo sostenitori che agiscono nel presente, pensando sempre al futuro"
+  primary-btn-text: "Entra nella famiglia di NOME PROGETTO"
+  secondary-btn-text: ""
+
+charity:
+  section-title: "Come destiniamo i soldi raccolti"
+  section-content:
+      paragraphs:
+        - "Ogni progetto inizia sempre da motivazioni e circostanze personali che ti portano a muovere i primi passi, sperando di riuscire a realizzarlo. NOME PROGETTO nasce proprio da questo mix di fattori."
+        - "Veniamo entrambi da località marittime e amiamo passare il tempo circondati dalla natura, che sia una spiaggia d’estate o una foresta rigogliosa del Trentino. Sappiamo tutti quanto la natura sia importante per il nostro pianeta, ma a volte la diamo per scontata o ce ne dimentichiamo. Tra 20 anni noi vorremmo continuare a fare passeggiate in mezzo ai boschi o camminare in riva al mare su un bagnasciuga pulito, senza rifiuti. Tu?"
+        - "L’emergenza del COVID-19 ha fatto riscoprire l’importanza del sostegno della ricerca e del sistema sanitario nazionale, a cui ci sentiamo di dover contribuire attivamente. Lo stesso vale per l’istruzione. In un Paese in cui non viene riconosciuto il giusto livello di importanza alla formazione ed istruzione, noi come privati dobbiamo attivarci per far si che noi in primis e i nostri figli possano godere di un adeguato livello di istruzione e di competenze che rispecchi le effettive esigenze del mercato."
+        - "Questi sono soltanto alcuni esempi di quello che vorremmo fare grazie a NOME PROGETTO."
+        - "Tutto quello che raccoglieremo verrà devoluto interamente ad attività benefiche, non terremo niente per noi."
+        - "Se conosci un progetto che pensi valga la pena supportare o anche solo far conoscere, scrivici!"
+  primary-btn-text: "Consigliaci un progetto"
 
 team:
-  - name: "Davide Sicignani"
-    description: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
-    image: "assets/img/davide-sicignani-web-developer.jpg"
-  - name: "Edoardo Erriu"
-    description: "Da sempre ho approcciato il marketing con un approccio etico e con forti implicazioni sociali. Ogni giorno do il massimo di me stesso perchè so che un’azienda che cresce assume più persone e aumenta il valore della comunità di cui fa parte."
-    image: "assets/img/edoardo-maria-erriu-web-marketing.jpg"
-      
+  section-title: "Chi siamo"
+  section-content:
+    paragraphs:
+      - Siamo millenial, amiamo la natura e vogliamo fare qualcosa. Vogliamo essere di aiuto, tutto qui."
+    members:
+      - name: "Davide Sicignani"
+        description: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+        image: "assets/img/davide-sicignani-web-developer.jpg"
+      - name: "Edoardo Erriu"
+        description: "Da sempre ho approcciato il marketing con un approccio etico e con forti implicazioni sociali. Ogni giorno do il massimo di me stesso perchè so che un’azienda che cresce assume più persone e aumenta il valore della comunità di cui fa parte."
+        image: "assets/img/edoardo-maria-erriu-web-marketing.jpg"
+        
