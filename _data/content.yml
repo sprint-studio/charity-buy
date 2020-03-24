@@ -1,8 +1,25 @@
+nav:
+  items:
+    - text: "Come funziona"
+      anchor: "come-funziona"
+    - text: "Cos'è NOME PROGETTO"
+      anchor: "cos-e"
+    - text: "A chi è rivolto NOME PROGETTO"
+      anchor: "target"
+    - text: "Come destiniamo i soldi raccolti"
+      anchor: "come-destiniamo-i-soldi"
+    - text: "Chi siamo"
+      anchor: "team"
+
 header:
   headline: "Rendi ogni tuo acquisto un piccolo, concreto contributo per il mondo"
   sub-headline: "Finanzia progetti benefici con ogni tuo acquisto su Amazon effettuato tramite NOME PROGETTO.<br>Senza dover aggiungere niente."
   placeholder: "Incolla qui il link del prodotto che vuoi acquistare"
   btn-txt: "Acquistalo ora"
+  section-content:
+    paragraphs:
+      - "Com’è possibile che grazie ai tuoi acquisti puoi fare una donazione?"
+      - "In qualità di Affiliato Amazon, NOME PROGETTO riceverà un guadagno dagli acquisti idonei. Non ti verrà addebitato nessun costo aggiuntivo."
 
 how-it-works:
   section-title: "Come funziona NOME PROGETTO"
@@ -22,18 +39,17 @@ how-it-works:
     - section-title: "Trasparenza"
       section-content:
         paragraphs:
-          - "Nella vita di tutti i giorni siamo consulenti, perciò sappiamo quanto sia fondamentale instaurare un rapporto di fiducia con le persone, specialmente quando ci sono di mezzo i soldi. Per questo motivo ogni mese pubblicheremo un resoconto del ricavato dalle donazioni e il piano di come andremo ad utilizzarli, in modo da renderti partecipe dei piccoli ma significativi passi che stiamo compiendo tutti assieme."
+          - "Nella vita di tutti i giorni siamo consulenti, perciò sappiamo quanto sia fondamentale instaurare un rapporto di fiducia con le persone."
+          - "Per questo motivo ogni mese pubblicheremo un resoconto del ricavato dalle donazioni e il piano di come andremo ad utilizzarli, in modo da renderti partecipe dei piccoli ma significativi passi che stiamo compiendo tutti assieme."
 
 what-is:
   section-title: "Cos’è NOME PROGETTO"
   section-content: 
     paragraphs:
-      - "Gli ultimi tragici avvenimenti come gli incendi in Australia, lo scioglimento dei ghiacciai e del permafrost in Antartide e la pandemia del COVID-19 ci hanno fatto riflettere più del solito. Ci hanno fatto capire quanto il nostro ecosistema e la nostra società siano fragili, motivo per cui ora più che mai dobbiamo impegnarci nel cercare di arginare questo problema."
-      - "Aiutare il pianeta con il consumismo, noto per la sua attitudine poco ecologista, non è certo il massimo. Però ti invito a fare questo ragionamento: pur sapendo che le principali aziende attive online hanno un’impronta di carbonio elevata, ti ha mai fermato dall’effettuare un acquisto?"
-      - "Sapere che Amazon nel 2018 ha generato 44.40 milioni di tonnellate metriche di CO2 [Fonte: Amazon] (lascia che lo rappresenti con gli zeri: 4.440.000.000.000.000 di grammi di CO2 generati, sono tanti vero?), ti fermerà adesso dal fare acquisti?"
-      - "Non possiamo impedire alle persone di acquistare nè tantomeno abbiamo la capacità di cambiare il mondo, stiamo solo cercando di sfruttare questa situazione per fare del bene, a costo (pressochè) zero e con pochissimo sforzo da parte tua."
+      - "Gli ultimi tragici avvenimenti come gli incendi in Australia, lo scioglimento dei ghiacciai e la pandemia del COVID-19 ci hanno fatto riflettere più del solito. Ci hanno fatto capire quanto il nostro ecosistema e la nostra società siano fragili, motivo per cui ora più che mai dobbiamo impegnarci nel cercare di arginare questo problema."
+      - "Sappiamo che aiutare il pianeta usando aziende come Amazon che presentano un’importa di carbonio elevatissima non è il massimo, ma questa è la situazione attuale e la sfrutteremo a nostro vantaggio per fare del bene."
       - "<mark>Non ti spingeremo ad acquistare di più</mark>"
-      - "Vogliamo infatti che utilizzi NOME PROGETTO soltanto in caso di necessità, ovvero ogni volta che dovrai acquistare un prodotto."
+      - "Vogliamo infatti che utilizzi NOME PROGETTO soltanto in caso di necessità, ovvero ogni volta che sarai sicuro di dover acquistare un prodotto."
   primary-btn-text: ""
   secondary-btn-text: ""
 
@@ -52,10 +68,8 @@ charity:
   section-content:
       paragraphs:
         - "Ogni progetto inizia sempre da motivazioni e circostanze personali che ti portano a muovere i primi passi, sperando di riuscire a realizzarlo. NOME PROGETTO nasce proprio da questo mix di fattori."
-        - "Veniamo entrambi da località marittime e amiamo passare il tempo circondati dalla natura, che sia una spiaggia d’estate o una foresta rigogliosa del Trentino. Sappiamo tutti quanto la natura sia importante per il nostro pianeta, ma a volte la diamo per scontata o ce ne dimentichiamo. Tra 20 anni noi vorremmo continuare a fare passeggiate in mezzo ai boschi o camminare in riva al mare su un bagnasciuga pulito, senza rifiuti. Tu?"
         - "L’emergenza del COVID-19 ha fatto riscoprire l’importanza del sostegno della ricerca e del sistema sanitario nazionale, a cui ci sentiamo di dover contribuire attivamente. Lo stesso vale per l’istruzione. In un Paese in cui non viene riconosciuto il giusto livello di importanza alla formazione ed istruzione, noi come privati dobbiamo attivarci per far si che noi in primis e i nostri figli possano godere di un adeguato livello di istruzione e di competenze che rispecchi le effettive esigenze del mercato."
-        - "Questi sono soltanto alcuni esempi di quello che vorremmo fare grazie a NOME PROGETTO."
-        - "Tutto quello che raccoglieremo verrà devoluto interamente ad attività benefiche, non terremo niente per noi."
+        - "Tutto quello che raccoglieremo verrà devoluto interamente ai progetti, noi non ci guadagniamo niente."
         - "Se conosci un progetto che pensi valga la pena supportare o anche solo far conoscere, scrivici!"
   primary-btn-text: "Consigliaci un progetto"
 
@@ -63,7 +77,7 @@ team:
   section-title: "Chi siamo"
   section-content:
     paragraphs:
-      - Siamo millenial, amiamo la natura e vogliamo fare qualcosa. Vogliamo essere di aiuto, tutto qui."
+      - "Siamo Sprint Studio, ci piace creare progetti che siano di aiuto alle persone e vogliamo fare qualcosa per migliorare il futuro nostro e di tutti."
     members:
       - name: "Davide Sicignani"
         description: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."

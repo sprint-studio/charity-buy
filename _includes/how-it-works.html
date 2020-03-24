@@ -1,5 +1,6 @@
 {% assign data = site.data.how-it-works %}
 
+<span id="come-funziona"></span>
 <section id="how-it-works">
   <div class="row">
     <div class="col-md-3"></div>
@@ -18,14 +19,15 @@
           {% for step in site.data.content.how-it-works.sub-sections[0].section-content.paragraphs %} 
             <div class="media">
               <div class="media-image mr-3">
-                <p>1</p>
+                <p>{{ forloop.index }}.</p>
               </div>
               <div class="media-body">
-                <h5 class="media-title mt-0">{{ step }}</h5>
+                <p class="media-title mt-0">{{ step }}</p>
                 <!--<p class="media-content">{{ step }}</p>-->
               </div>
             </div>
           {% endfor %}
+          <br>
         </div>
       </div>
       <div class="row">

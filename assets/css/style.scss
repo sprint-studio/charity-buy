@@ -4,7 +4,7 @@
 @import "variables";
 
 .bg-dark-green {
-  background-color: $dark-green;
+  background-color: $dark-green
 }
 
 h2 {
@@ -19,12 +19,22 @@ h2 {
 
   &.btn-primary {
     background-color: $dark-green;
+    box-shadow: inset 0px 0px 10px rgba($color: black, $alpha: 0.2);
+  }
+
+  &.btn-success {
+    background-color: $dark-green;
   }
 }
 
 body {
   font-family: "Fira Sans", sans-serif;
-  border-top: 5px solid $light-green;
+  border-top: 5px solid $soft-green;
+}
+
+nav {
+  background-color: $dark-green;
+  box-shadow: 0px 10px 10px $dark-green;
 }
 
 section {
@@ -47,6 +57,10 @@ section {
   }
 }
 
+mark {
+  font-weight: 500;
+  background-color: $light-yellow;
+}
 .container-fluid {
   padding: 0px;
 }
@@ -78,7 +92,7 @@ header#header {
   .input-group {
     padding: 10px;
     border-radius: 5px;
-    background: rgba(46, 196, 9, 0.4);
+    background: $light-green;
 
     input {
       background: transparent;
@@ -94,33 +108,40 @@ header#header {
       border-radius: 5px !important;
     }
   }
+
+  @media (max-width: 568px) {
+    .jumbotron {
+      margin-top: 0px;
+      padding: 20px 20px;
+
+      .form-control {
+        padding: 30px;
+        background-color: $light-green;
+      }
+
+      .btn {
+        width: 100%;
+      }
+    }
+  }
 }
 
 .media-image {
-  width: 100px;
-  height: 100px;
-  border-radius: 60px;
-  background-color: $light-yellow;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
   p {
     color: $dark-green;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 800;
   }
 }
 
 #how-it-works {
   .media {
-    background-color: $dark-green;
-    box-shadow: inset 0px 0px 20px $soft-green;
-    border: 1px solid $soft-green;
+    border: 2px solid $soft-green;
+    box-shadow: inset 0px 0px 10px rgba($color: $soft-green, $alpha: 0.4);
     margin-top: 20px;
-    padding: 40px;
-    border-radius: 20px;
-    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    //color: $dark-green;
 
     .media-title {
       font-style: italic;;

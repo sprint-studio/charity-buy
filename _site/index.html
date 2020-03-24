@@ -57,6 +57,37 @@
 </head>
 
   <body id="page-top" class="index">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Logo</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      
+        <li class="nav-item">
+          <a class="nav-link" href="#come-funziona">Come funziona</a>
+        </li>
+      
+        <li class="nav-item">
+          <a class="nav-link" href="#cos-e">Cos'è NOME PROGETTO</a>
+        </li>
+      
+        <li class="nav-item">
+          <a class="nav-link" href="#target">A chi è rivolto NOME PROGETTO</a>
+        </li>
+      
+        <li class="nav-item">
+          <a class="nav-link" href="#come-destiniamo-i-soldi">Come destiniamo i soldi raccolti</a>
+        </li>
+      
+        <li class="nav-item">
+          <a class="nav-link" href="#team">Chi siamo</a>
+        </li>
+      
+    </ul>
+  </div>
+</nav>
     <div class="container-fluid">
       <!-- Header -->
 <header id="header">
@@ -79,21 +110,37 @@
     <div class="col-lg-3"></div>
     <div class="col-sm-12 col-lg-6">
       <div class="jumbotron text-center">
-        <form>
+        <form name="link-generator" class="d-none d-md-block">
           <div class="input-group">
             <input
               type="text"
+              name="amazon-link"
               class="form-control"
               placeholder="Incolla qui il link del prodotto che vuoi acquistare"
               aria-label=""
               aria-describedby="basic-addon2"
             />
             <div class="input-group-append">
-              <button class="btn btn-success" type="button">
+              <button class="btn btn-primary">
                 Acquistalo ora
               </button>
             </div>
           </div>
+        </form>
+        <form name="link-generator" class="d-block d-sm-none d-md-none">
+          <div class="form-group">
+            <input
+              type="text"
+              name="amazon-link"
+              class="form-control"
+              placeholder="Incolla qui il link del prodotto che vuoi acquistare"
+              aria-label=""
+              aria-describedby="basic-addon2"
+            />
+          </div>
+          <button class="btn btn-primary">
+            Acquistalo ora
+          </button>
         </form>
       </div>
     </div>
@@ -102,6 +149,7 @@
  
       
 
+<span id="come-funziona"></span>
 <section id="how-it-works">
   <div class="row">
     <div class="col-md-3"></div>
@@ -122,41 +170,44 @@
            
             <div class="media">
               <div class="media-image mr-3">
-                <p>1</p>
+                <p>1.</p>
               </div>
               <div class="media-body">
-                <h5 class="media-title mt-0">Nella barra dedicata inserisci il link del prodotto che vuoi acquistare.</h5>
+                <p class="media-title mt-0">Nella barra dedicata inserisci il link del prodotto che vuoi acquistare.</p>
                 <!--<p class="media-content">Nella barra dedicata inserisci il link del prodotto che vuoi acquistare.</p>-->
               </div>
             </div>
            
             <div class="media">
               <div class="media-image mr-3">
-                <p>1</p>
+                <p>2.</p>
               </div>
               <div class="media-body">
-                <h5 class="media-title mt-0">Clicca sul bottone “Acquistalo ora”, che ti rimanderà alla stessa pagina prodotto di Amazon, passaggio necessario per tramutare il tuo acquisto in una donazione.</h5>
+                <p class="media-title mt-0">Clicca sul bottone “Acquistalo ora”, che ti rimanderà alla stessa pagina prodotto di Amazon, passaggio necessario per tramutare il tuo acquisto in una donazione.</p>
                 <!--<p class="media-content">Clicca sul bottone “Acquistalo ora”, che ti rimanderà alla stessa pagina prodotto di Amazon, passaggio necessario per tramutare il tuo acquisto in una donazione.</p>-->
               </div>
             </div>
            
             <div class="media">
               <div class="media-image mr-3">
-                <p>1</p>
+                <p>3.</p>
               </div>
               <div class="media-body">
-                <h5 class="media-title mt-0">Goditi l’esperienza di acquisto di Amazon. Da questo momento in poi potrai aggiungere eventuali altri prodotti e terminare il tuo acquisto. <br><b>Attenzione:</b> ti consigliamo di completare l’acquisto entro 24 ore.</h5>
+                <p class="media-title mt-0">Goditi l’esperienza di acquisto di Amazon. Da questo momento in poi potrai aggiungere eventuali altri prodotti e terminare il tuo acquisto. <br><b>Attenzione:</b> ti consigliamo di completare l’acquisto entro 24 ore.</p>
                 <!--<p class="media-content">Goditi l’esperienza di acquisto di Amazon. Da questo momento in poi potrai aggiungere eventuali altri prodotti e terminare il tuo acquisto. <br><b>Attenzione:</b> ti consigliamo di completare l’acquisto entro 24 ore.</p>-->
               </div>
             </div>
           
+          <br>
         </div>
       </div>
       <div class="row">
         <div class="col-12">
           <h3 class="section-title">Trasparenza</h3>
           
-            <p>Nella vita di tutti i giorni siamo consulenti, perciò sappiamo quanto sia fondamentale instaurare un rapporto di fiducia con le persone, specialmente quando ci sono di mezzo i soldi. Per questo motivo ogni mese pubblicheremo un resoconto del ricavato dalle donazioni e il piano di come andremo ad utilizzarli, in modo da renderti partecipe dei piccoli ma significativi passi che stiamo compiendo tutti assieme.</p>
+            <p>Nella vita di tutti i giorni siamo consulenti, perciò sappiamo quanto sia fondamentale instaurare un rapporto di fiducia con le persone.</p>
+          
+            <p>Per questo motivo ogni mese pubblicheremo un resoconto del ricavato dalle donazioni e il piano di come andremo ad utilizzarli, in modo da renderti partecipe dei piccoli ma significativi passi che stiamo compiendo tutti assieme.</p>
           
         </div>
       </div>
@@ -164,23 +215,20 @@
   </div>
 </section>
 
-      <section id="what-is">
+      <span id=""></span>
+<section id="what-is">
   <div class="row">
     <div class="col-md-3"></div>
     <div class="col-sm-12 col-md-6">
         <h2 class="section-title">Cos’è NOME PROGETTO</h2>
         
-          <p>Gli ultimi tragici avvenimenti come gli incendi in Australia, lo scioglimento dei ghiacciai e del permafrost in Antartide e la pandemia del COVID-19 ci hanno fatto riflettere più del solito. Ci hanno fatto capire quanto il nostro ecosistema e la nostra società siano fragili, motivo per cui ora più che mai dobbiamo impegnarci nel cercare di arginare questo problema.</p>
+          <p>Gli ultimi tragici avvenimenti come gli incendi in Australia, lo scioglimento dei ghiacciai e la pandemia del COVID-19 ci hanno fatto riflettere più del solito. Ci hanno fatto capire quanto il nostro ecosistema e la nostra società siano fragili, motivo per cui ora più che mai dobbiamo impegnarci nel cercare di arginare questo problema.</p>
         
-          <p>Aiutare il pianeta con il consumismo, noto per la sua attitudine poco ecologista, non è certo il massimo. Però ti invito a fare questo ragionamento: pur sapendo che le principali aziende attive online hanno un’impronta di carbonio elevata, ti ha mai fermato dall’effettuare un acquisto?</p>
-        
-          <p>Sapere che Amazon nel 2018 ha generato 44.40 milioni di tonnellate metriche di CO2 [Fonte: Amazon] (lascia che lo rappresenti con gli zeri: 4.440.000.000.000.000 di grammi di CO2 generati, sono tanti vero?), ti fermerà adesso dal fare acquisti?</p>
-        
-          <p>Non possiamo impedire alle persone di acquistare nè tantomeno abbiamo la capacità di cambiare il mondo, stiamo solo cercando di sfruttare questa situazione per fare del bene, a costo (pressochè) zero e con pochissimo sforzo da parte tua.</p>
+          <p>Sappiamo che aiutare il pianeta usando aziende come Amazon che presentano un’importa di carbonio elevatissima non è il massimo, ma questa è la situazione attuale e la sfrutteremo a nostro vantaggio per fare del bene.</p>
         
           <p><mark>Non ti spingeremo ad acquistare di più</mark></p>
         
-          <p>Vogliamo infatti che utilizzi NOME PROGETTO soltanto in caso di necessità, ovvero ogni volta che dovrai acquistare un prodotto.</p>
+          <p>Vogliamo infatti che utilizzi NOME PROGETTO soltanto in caso di necessità, ovvero ogni volta che sarai sicuro di dover acquistare un prodotto.</p>
         
     </div>
   </div>
@@ -198,6 +246,7 @@
           
             <p>Vogliamo sostenitori che agiscono nel presente, pensando sempre al futuro</p>
           
+          <button class="btn btn-primary">Entra nella famiglia di NOME PROGETTO</button>
       </div>
     </div>
   </section>
@@ -210,13 +259,9 @@
           
             <p>Ogni progetto inizia sempre da motivazioni e circostanze personali che ti portano a muovere i primi passi, sperando di riuscire a realizzarlo. NOME PROGETTO nasce proprio da questo mix di fattori.</p>
           
-            <p>Veniamo entrambi da località marittime e amiamo passare il tempo circondati dalla natura, che sia una spiaggia d’estate o una foresta rigogliosa del Trentino. Sappiamo tutti quanto la natura sia importante per il nostro pianeta, ma a volte la diamo per scontata o ce ne dimentichiamo. Tra 20 anni noi vorremmo continuare a fare passeggiate in mezzo ai boschi o camminare in riva al mare su un bagnasciuga pulito, senza rifiuti. Tu?</p>
-          
             <p>L’emergenza del COVID-19 ha fatto riscoprire l’importanza del sostegno della ricerca e del sistema sanitario nazionale, a cui ci sentiamo di dover contribuire attivamente. Lo stesso vale per l’istruzione. In un Paese in cui non viene riconosciuto il giusto livello di importanza alla formazione ed istruzione, noi come privati dobbiamo attivarci per far si che noi in primis e i nostri figli possano godere di un adeguato livello di istruzione e di competenze che rispecchi le effettive esigenze del mercato.</p>
           
-            <p>Questi sono soltanto alcuni esempi di quello che vorremmo fare grazie a NOME PROGETTO.</p>
-          
-            <p>Tutto quello che raccoglieremo verrà devoluto interamente ad attività benefiche, non terremo niente per noi.</p>
+            <p>Tutto quello che raccoglieremo verrà devoluto interamente ai progetti, noi non ci guadagniamo niente.</p>
           
             <p>Se conosci un progetto che pensi valga la pena supportare o anche solo far conoscere, scrivici!</p>
           
@@ -225,33 +270,34 @@
   </section>
   
       <section id="team" class="bg-dark-green">
-<div class="row">
-    <div class="col-3"></div>
-    <div class="col-6">
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-6 col-sm-12">
       <h2 class="section-title">Chi siamo</h2>
+      <p>Siamo Sprint Studio, ci piace creare progetti che siano di aiuto alle persone e vogliamo fare qualcosa per migliorare il futuro nostro e di tutti.</p>
       <div class="row">
         <div class="col-md-1"></div>
         
-        <div class="col-md-4">
+        <div class="col-md-4 col-sm-12">
           <div class="card border-0">
-            <img src="" class="card-img" alt="..." />
+            <img src="assets/img/davide-sicignani-web-developer.jpg" class="card-img" alt="..." />
             <div class="card-body">
-              <h5 class="card-title"></h5>
+              <h5 class="card-title">Davide Sicignani</h5>
               <p class="card-text">
-                
+                This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
               </p>
             </div>
           </div>
         </div>
         <div class="col-md-1"></div>
         
-        <div class="col-md-4">
+        <div class="col-md-4 col-sm-12">
           <div class="card border-0">
-            <img src="" class="card-img" alt="..." />
+            <img src="assets/img/edoardo-maria-erriu-web-marketing.jpg" class="card-img" alt="..." />
             <div class="card-body">
-              <h5 class="card-title"></h5>
+              <h5 class="card-title">Edoardo Erriu</h5>
               <p class="card-text">
-                
+                Da sempre ho approcciato il marketing con un approccio etico e con forti implicazioni sociali. Ogni giorno do il massimo di me stesso perchè so che un’azienda che cresce assume più persone e aumenta il valore della comunità di cui fa parte.
               </p>
             </div>
           </div>
@@ -315,7 +361,14 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          Copyright &copy;  2020
+          <p>
+            NOME PROGETTO, made with ❤️ by
+            <a href="https://sprintstudio.co" target="_blank">Sprint Studio</a>
+          </p>
+          <p>
+            All rights reserved. Copyright &copy; 
+            2020
+          </p>
         </div>
       </div>
     </div>
@@ -325,6 +378,7 @@
       <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="/assets/js/main.js"></script>
     </div>
   </body>
 </html>
