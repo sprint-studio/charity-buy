@@ -1,13 +1,29 @@
-(function(){
-    $(document).ready(function() {
-        $('form[name="link-generator"]').submit(function() {
-            let amazonLink = $('input[name="amazon-link"]').val().split('?')[0];
+(function() {
+  $(document).ready(function() {
+    const client = stitch.Stitch.initializeDefaultAppClient(
+      "sprint-studio-charity-buy-ghxmq"
+    );
 
-            if(amazonLink.indexOf('amazon') === -1) {
-                return alert("Attenzione, sembra che tu abbia inserito un link non valido.   Ricorda che devi inserire il link di un prodotto su Amazon.");
-            }
-            
-            window.open(amazonLink + '?tag=873401-21', 'blank')
+    client.auth
+      .loginWithCredential(new stitch.AnonymousCredential())
+      .then(user => {
+        console.log(user);
+      })
+      .catch(err => {
+        console.error(err);
+      });
+
+    $('form[name="link-generator"] .btn').click(function() {
+      let amazonLink = $('input[name="amazon-link"]').val();
+      client
+        .callFunction("Generate_tracking_link", [amazonLink])
+        .then(function(result) {
+          if (result.error) {
+            return alert(result.message);
+          }
+
+          window.open(result, "blank");
         });
     });
+  });
 })();

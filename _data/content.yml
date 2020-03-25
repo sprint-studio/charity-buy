@@ -1,15 +1,15 @@
-nav:
-  items:
-    - text: "Come funziona"
-      anchor: "come-funziona"
-    - text: "Cos'è NOME PROGETTO"
-      anchor: "cos-e"
-    - text: "A chi è rivolto NOME PROGETTO"
-      anchor: "target"
-    - text: "Come destiniamo i soldi raccolti"
-      anchor: "come-destiniamo-i-soldi"
-    - text: "Chi siamo"
-      anchor: "team"
+#nav:
+#  items:
+#    - text: "Come funziona"
+#      anchor: "come-funziona"
+#    - text: "Cos'è NOME PROGETTO"
+#      anchor: "cos-e"
+#    - text: "A chi è rivolto NOME PROGETTO"
+#      anchor: "target"
+#    - text: "Come destiniamo i soldi raccolti"
+#      anchor: "come-destiniamo-i-soldi"
+#    - text: "Chi siamo"
+#     anchor: "team"
 
 header:
   headline: "Rendi ogni tuo acquisto un piccolo, concreto contributo per il mondo"
@@ -20,7 +20,11 @@ header:
     paragraphs:
       - "Com’è possibile che grazie ai tuoi acquisti puoi fare una donazione?"
       - "In qualità di Affiliato Amazon, NOME PROGETTO riceverà un guadagno dagli acquisti idonei. Non ti verrà addebitato nessun costo aggiuntivo."
-
+  sub-sections:
+    - section-title: "Com’è possibile che grazie ai tuoi acquisti puoi fare una donazione?"
+      section-content:
+          paragraphs:
+              - "In qualità di Affiliato Amazon, NOME PROGETTO riceverà un guadagno dagli acquisti idonei. <br><mark>Non ti verrà addebitato nessun costo aggiuntivo.</mark>"
 how-it-works:
   section-title: "Come funziona NOME PROGETTO"
   section-content: 
