@@ -114,6 +114,15 @@ header#header {
     }
   }
 
+  .charity-campaign {
+    box-shadow: 0px 0px 20px $light-green;
+
+    img.campaign-logo {
+      width: 100px;
+      margin-bottom: 20px;
+    }
+  }
+
   @media (max-width: 568px) {
     .jumbotron {
       margin-top: 0px;

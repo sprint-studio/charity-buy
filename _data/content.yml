@@ -25,6 +25,14 @@ header:
       section-content:
           paragraphs:
               - "In qualità di Affiliato Amazon, NOME PROGETTO riceverà un guadagno dagli acquisti idonei. <br><mark>Non ti verrà addebitato nessun costo aggiuntivo.</mark>"
+
+charity-campaign:
+  logo: "assets/img/gofundme.png"
+  image: "https://d2g8igdw686xgo.cloudfront.net/46044426_1583740991566778_r.jpeg"
+  title: "Coronavirus, rafforziamo la terapia intensiva"
+  content: ""
+  link: https://www.gofundme.com/f/coronavirus-terapia-intensiva
+
 how-it-works:
   section-title: "Come funziona NOME PROGETTO"
   section-content: 
