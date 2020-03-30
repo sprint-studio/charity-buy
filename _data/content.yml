@@ -21,10 +21,7 @@ header:
       - "Com’è possibile che grazie ai tuoi acquisti puoi fare una donazione?"
       - "In qualità di Affiliato Amazon, NOME PROGETTO riceverà un guadagno dagli acquisti idonei. Non ti verrà addebitato nessun costo aggiuntivo."
   sub-sections:
-    - section-title: "Com’è possibile che grazie ai tuoi acquisti puoi fare una donazione?"
-      section-content:
-          paragraphs:
-              - "In qualità di Affiliato Amazon, NOME PROGETTO riceverà un guadagno dagli acquisti idonei. <br><mark>Non ti verrà addebitato nessun costo aggiuntivo.</mark>"
+    - section-title: "Ogni contributo raccolto verrà interamente devoluto all'Ospedale San Raffaele di Milano tramite Gofundme"
 
 charity-campaign:
   logo: "assets/img/gofundme.png"
