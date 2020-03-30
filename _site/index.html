@@ -58,7 +58,7 @@
 
   <body id="page-top" class="index">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Logo</a>
+  <a class="navbar-brand" href="/">Logo</a>
   <button
     class="navbar-toggler"
     type="button"
@@ -74,7 +74,13 @@
     <ul class="navbar-nav">
       
     </ul>
-    <div name="user" class="dropdown my-2 float-right">
+    <button
+      class="btn btn-primary btn-sm ml-auto btn-login-facebook"
+      role="button"
+    >
+      Entra nella nostra famiglia
+  </button>
+    <div name="user" hidden class="dropdown ml-auto">
       <a
         class="btn btn-primary btn-sm dropdown-toggle"
         href="#"
@@ -84,11 +90,13 @@
         aria-haspopup="true"
         aria-expanded="false"
       >
-        
       </a>
 
-      <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-        <a class="dropdown-item" href="#">Logout</a>
+      <div
+        class="dropdown-menu dropdown-menu-right"
+        aria-labelledby="dropdownMenuLink"
+      >
+        <button class="dropdown-item btn-logout">Logout</button>
       </div>
     </div>
   </div>
@@ -285,7 +293,7 @@
           
             <p>Vogliamo sostenitori che agiscono nel presente, pensando sempre al futuro</p>
           
-          <button id="join" class="btn btn-primary">Entra nella famiglia di NOME PROGETTO</button>
+          <button id="join" class="btn btn-primary btn-login-facebook">Entra nella famiglia di NOME PROGETTO</button>
       </div>
     </div>
   </section>
@@ -355,7 +363,7 @@
         <div class="col-12">
             <div class="jumbotron text-center">
                 <h3>Inizia oggi a donare tramite i tuoi acquisti Amazon</h3>
-                <button class="btn btn-primary">Genera un link</button>
+                <a class="btn btn-primary" href="#header">Genera un link</a>
             </div>
         </div>
     </div> 
@@ -403,11 +411,10 @@
           <p>
             NOME PROGETTO, made with ❤️ by
             <a href="https://sprintstudio.co" target="_blank">Sprint Studio</a>
-          </p>
-          <p>
             All rights reserved. Copyright &copy; 
             2020
           </p>
+          <a href="./privacy-policy">Privacy Policy</a>
         </div>
       </div>
     </div>
