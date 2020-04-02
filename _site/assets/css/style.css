@@ -1,8 +1,13 @@
 .bg-dark-green {
   background-color: #00a388; }
 
+h2,
+h3,
+h4,
+h5 {
+  color: #00a388; }
+
 h2 {
-  color: #00a388;
   font-weight: 900; }
 
 .btn {
@@ -47,6 +52,23 @@ section {
       padding-top: 10px;
       border-bottom: 4px solid #79bd8f; }
 
+.page h2,
+.page h3,
+.page h4,
+.post h2,
+.post h3,
+.post h4 {
+  margin-top: 40px; }
+.page h2:after,
+.page h3:after,
+.post h2:after,
+.post h3:after {
+  content: "";
+  display: block;
+  width: 10%;
+  padding-top: 10px;
+  border-bottom: 4px solid #79bd8f; }
+
 mark {
   font-weight: 500;
   background-color: #ffff9d; }
@@ -55,49 +77,51 @@ mark {
   padding: 0px; }
 
 header#header .hero {
-  min-height: 300px;
+  min-height: 300px; }
+header .hero {
+  min-height: 200px;
   background-color: #00a388;
   color: #beeb9f;
   padding-top: 60px;
   text-align: center; }
-header#header h1 {
+header h1 {
   color: white;
   font-weight: 500;
   font-style: italic; }
-header#header .jumbotron {
+header .jumbotron {
   min-height: 100px;
   background-color: white;
   margin-top: -80px;
   padding: 50px 50px 20px 50px;
   border: 1px solid #beeb9f; }
-  header#header .jumbotron p {
+  header .jumbotron p {
     text-align: left;
     font-size: 15px; }
-header#header .input-group {
+header .input-group {
   padding: 10px;
   border-radius: 5px;
   background: #beeb9f; }
-  header#header .input-group input {
+  header .input-group input {
     background: transparent;
     border: none; }
-    header#header .input-group input:focus {
+    header .input-group input:focus {
       box-shadow: none;
       background: transparent; }
-  header#header .input-group button {
+  header .input-group button {
     border-radius: 5px !important; }
-header#header .charity-campaign {
+header .charity-campaign {
   box-shadow: 0px 0px 20px #beeb9f; }
-  header#header .charity-campaign img.campaign-logo {
+  header .charity-campaign img.campaign-logo {
     width: 100px;
     margin-bottom: 20px; }
 @media (max-width: 568px) {
-  header#header .jumbotron {
+  header .jumbotron {
     margin-top: 0px;
     padding: 20px 20px; }
-    header#header .jumbotron .form-control {
+    header .jumbotron .form-control {
       padding: 30px;
       background-color: #beeb9f; }
-    header#header .jumbotron .btn {
+    header .jumbotron .btn {
       width: 100%; } }
 
 .media-image p {

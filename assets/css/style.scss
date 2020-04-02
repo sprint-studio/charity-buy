@@ -4,11 +4,17 @@
 @import "variables";
 
 .bg-dark-green {
-  background-color: $dark-green
+  background-color: $dark-green;
+}
+
+h2,
+h3,
+h4,
+h5 {
+  color: $dark-green;
 }
 
 h2 {
-  color: $dark-green;
   font-weight: $secondary-font-weight;
 }
 
@@ -35,7 +41,7 @@ a {
   &.btn {
     text-decoration: none;
   }
-  
+
   &:hover {
     color: $dark-green;
   }
@@ -45,7 +51,6 @@ body {
   font-family: "Fira Sans", sans-serif;
   border-top: 5px solid $soft-green;
 }
-
 
 nav {
   background-color: $dark-green;
@@ -72,6 +77,24 @@ section {
   }
 }
 
+.page,
+.post {
+  h2,
+  h3,
+  h4 {
+    margin-top: 40px;
+  }
+
+  h2:after,
+  h3:after {
+    content: "";
+    display: block;
+    width: 10%;
+    padding-top: 10px;
+    border-bottom: 4px solid $soft-green;
+  }
+}
+
 mark {
   font-weight: 500;
   background-color: $light-yellow;
@@ -81,9 +104,13 @@ mark {
   padding: 0px;
 }
 
-header#header {
-  .hero {
+header {
+  &#header .hero {
     min-height: 300px;
+  }
+
+  .hero {
+    min-height: 200px;
     background-color: $dark-green;
     color: $light-green;
     padding-top: 60px;
@@ -174,13 +201,12 @@ header#header {
     //color: $dark-green;
 
     .media-title {
-      font-style: italic;;
+      font-style: italic;
     }
-    
+
     .media-content {
       font-weight: 300;
     }
-
   }
 }
 
@@ -194,7 +220,7 @@ header#header {
 
   .card {
     background-color: transparent;
-    
+
     img {
       border-radius: 20px;
     }
@@ -216,7 +242,6 @@ header#header {
     background-color: transparent;
   }
 }
-
 
 footer {
   padding-top: 20px;
