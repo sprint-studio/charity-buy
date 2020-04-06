@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "PRIVACY & COOKIE POLICY"
+title: Privacy e Cookie policy - GreenShares
+page-description: 
 subtitle: "Informativa sul trattamento dei dati personali (art. 13 Reg. UE 2016/679, GDPR)"
 ---
 

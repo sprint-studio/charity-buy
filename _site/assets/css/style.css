@@ -10,6 +10,9 @@ h5 {
 h2 {
   font-weight: 900; }
 
+.display-6 {
+  font-size: 25px; }
+
 .btn {
   border: none;
   border-radius: 5px;
