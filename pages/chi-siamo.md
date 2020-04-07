@@ -1,8 +1,9 @@
 ---
 layout: page
+permalink: /chi-siamo
+title: Chi siamo
 ---
 
-# Chi siamo
 GreenShares è nato dalla nostra passione per la natura e dalla voglia di essere di fare qualcosa per tutti noi, per il nostro futuro.
 Siamo Edoardo e Davide, amiamo il campeggio, la montagna in tutte le stagioni e siamo maker. Ci piace creare progetti che siano di aiuto a noi e a tutte le persone che presentano le nostre stesse necessità. Per questo motivo abbiamo creato <a href="http://sprintstudio.co" target="_blank">Sprint Studio</a>, l'azienda grazie alla quale è nata GreenShares.
 
@@ -20,4 +21,5 @@ Siamo consulenti, perciò sappiamo che il lavoro (qualunque esso sia) deve esser
 Sappiamo che il sito è migliorabile, perciò se sei un grafico o se ne conosci qualcuno che potrebbe darci una mano te ne saremmo davvero grati.
 
 Troverai tutti i dettagli al seguente link.
+
 <a class="btn btn-primary" href="http://sprintstudio.co/join-sprint-studio">Entra nella nostra famiglia</a>
