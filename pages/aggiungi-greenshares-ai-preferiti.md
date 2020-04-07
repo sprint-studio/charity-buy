@@ -21,7 +21,13 @@ Cerca nell’elenco le istruzioni per il tuo dispositivo, se non dovessi trovarl
 - [Bing](#android-bing)
 
 [iPhone](#iphone)
+- [Safari](#iphone-safari)
 - [Google Chrome](#iphone-chrome)
+
+[PC windows](#pc)
+- [Google Chrome](#pc-chrome)
+- [Mozilla Firefox](#pc-firefox)
+- [Microsoft Edge (ex Internet Explorer)](#pc-edge)
 
 
 <span id=”android”></span>
@@ -97,6 +103,14 @@ Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home
 <span id=”iphone”></span>
 ## Come aggiungere GreenShares al tuo iPhone
 
+<span id=”iphone-safari”></span>
+## Aggiungere GreenShares alla home del tuo iPhone da Safari
+Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home del tuo iPhone da Safari:
+1. Clicca sull’icona della condivisione in basso nello schermo
+2. Scorri le opzioni e seleziona "Aggiungi a Home"
+3. Scegli se rinominare il collegamento o mantenere il testo suggerito
+4. Fatto!
+
 <span id=iphone-chrome”></span>
 ## Aggiungere GreenShares alla home del tuo smartphone iPhone da Google Chrome
 Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home del tuo iPhone da Google Chrome:
@@ -104,3 +118,32 @@ Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home
 2. Clicca sulla voce “Aggiungi a schermata Home”
 3. Scegli se rinominare il collegamento o mantenere il testo suggerito
 4. Fatto!
+
+
+<span id=”pc”></span>
+## Come aggiungere GreenShares al tuo PC
+
+<span id=”pc-chrome”></span>
+### Aggiungere GreenShares alla barra dei preferiti di Google Chrome del tuo PC
+Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella barra dei preferiti di Google Chrome dal tuo PC:
+1. Clicca sull’icona a forma di stella posta alla fine della barra degli indirizzi
+2. Scegli se rinominare il collegamento o mantenere il testo suggerito
+3. Dall'elenco a tendina affianco alla voce "Cartella" seleziona l'opzione "Barra dei preferiti"
+4. Fatto!
+
+<span id=”pc-firefox”></span>
+### Aggiungere GreenShares alla barra dei preferiti di Mozilla Firefox del tuo PC
+Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella barra dei preferiti di Mozilla Firefox dal tuo PC:
+1. Clicca sull’icona a forma di stella a destra della barra degli indirizzi
+2. Scegli se rinominare il collegamento o mantenere il testo suggerito
+3. Dall'elenco a tendina sotto la voce "Cartella:" seleziona "Barra dei segnalibri"
+4. Fatto!
+
+<span id=”pc-edge”></span>
+### Aggiungere GreenShares alla barra dei preferiti di Microsoft Edge del tuo PC
+Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella barra dei preferiti di Microsoft Edge dal tuo PC:
+1. Clicca sull’icona a forma di stella a destra della barra degli indirizzi
+2. Scegli se rinominare il collegamento o mantenere il testo suggerito
+3. Dall'elenco a tendina sotto la voce "Salva in" seleziona "Barra dei segnalibri"
+4. Fatto!
+
