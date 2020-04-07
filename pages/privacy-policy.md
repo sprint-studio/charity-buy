@@ -99,9 +99,9 @@ _Cookie di terze parti_: nel Sito sono utilizzati cookie forniti dalle terze par
 
 - _Google Analytics_: [https://policies.google.com/privacy?hl=it](https://policies.google.com/privacy?hl=it) e [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) (per la disabilitazione - opt-out);
   **Cookie di profilazione**
-- _Google_: [http://www.google.com/policies/technologies/cookies/](http://www.google.com/policies/technologies/cookies/); [https://policies.google.com/privacy](https://policies.google.com/privacy) e [http://www.google.com/settings/ads](http://www.google.com/settings/ads) (per la disabilitazione della profilazione basata sugli annunci Google);
-- _Facebook_: [https://it-it.facebook.com/privacy/explanation](https://it-it.facebook.com/privacy/explanation) e [https://www.facebook.com/policies/cookies/](https://www.facebook.com/policies/cookies/) (anche per la disabilitazione opt-out);
-- _Hotjar_: [https://www.hotjar.com/legal/policies/cookie-information](https://www.hotjar.com/legal/policies/cookie-information).
+- _Google_: [technologies cookies](http://www.google.com/policies/technologies/cookies/); [https://policies.google.com/privacy](https://policies.google.com/privacy) e [http://www.google.com/settings/ads](http://www.google.com/settings/ads) (per la disabilitazione della profilazione basata sugli annunci Google);
+- _Facebook_: [privacy explanation](https://it-it.facebook.com/privacy/explanation) e [policies cookies](https://www.facebook.com/policies/cookies/) (anche per la disabilitazione opt-out);
+- _Hotjar_: [cookie information](https://www.hotjar.com/legal/policies/cookie-information).
 
 ### 5 - COME DISABILITARE I COOKIE?
 **_Controllo tramite browser_**: I browser comunemente utilizzati (ad es., Internet Explorer, Firefox, Chrome, Safari) accettano i cookie per impostazione predefinita, ma tale impostazione può essere modificata dall’utente in ogni momento. Ciò vale sia per i pc sia per i dispositivi mobile come tablet e smartphone: è una funzione generalmente e diffusamente supportata.
@@ -112,9 +112,11 @@ Di norma, i browser oggi adoperati:
 - offrono l’opzione di navigazione anonima o in incognito: in tal modo non saranno raccolti dati nel browser e non sarà salvata la cronologia di navigazione, ma i dati di navigazione saranno comunque acquisibili dal gestore del sito web visitato;
 - consentono di eliminare i cookie memorizzati in tutto o in parte, ma alla nuova visita ad un sito web vengono di norma installati ove tale possibilità non venga bloccata.
   Si indicano i link alle pagine di supporto dei browser maggiormente diffusi (con istruzioni sulla disabilitazione dei cookie su tali browser):
-- Firefox: [https://support.mozilla.org/it/kb/Attivare%20e%20disattivare%20i%20cookie](https://support.mozilla.org/it/kb/Attivare%20e%20disattivare%20i%20cookie);
-- Internet Explorer: [http://windows.microsoft.com/it-it/internet-explorer/delete-manage-cookies#ie=ie-11](http://windows.microsoft.com/it-it/internet-explorer/delete-manage-cookies#ie=ie-11);
+- Firefox: [Attivare disattivare cookie](https://support.mozilla.org/it/kb/Attivare%20e%20disattivare%20i%20cookie);
+- Internet Explorer: [delete manage cookies](http://windows.microsoft.com/it-it/internet-explorer/delete-manage-cookies#ie=ie-11);
 - Safari (iOS): [https://support.apple.com/it-it/HT201265](https://support.apple.com/it-it/HT201265);
-- Chrome (desktop: [https://support.google.com/chrome/answer/95647?hl=it](https://support.google.com/chrome/answer/95647?hl=it); Android e iOS [https://support.google.com/chrome/answer/2392971?hl=it](https://support.google.com/chrome/answer/2392971?hl=it)).
+- [Chrome (desktop)](https://support.google.com/chrome/answer/95647?hl=it);
+- [Chome Android e iOS](https://support.google.com/chrome/answer/2392971?hl=it)
+
   **Cookie di terze parti**: i cookie delle terze parti possono essere disabilitati sia con la modalità sopra descritta sia facendo riferimento a ciascuna terza parte (seguendo i link indicati al paragrafo precedente).
   **Strumenti on line**: si segnala che dal sito [http://www.youronlinechoices.com/it/](http://www.youronlinechoices.com/it/) è possibile non solo acquisire ulteriori informazioni sui cookie, ma anche verificare l’installazione di numerosi cookie sul proprio browser/dispositivo e, ove supportato, anche di disabilitarli.

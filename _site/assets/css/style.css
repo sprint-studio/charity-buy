@@ -77,6 +77,8 @@ mark {
 
 .container-fluid {
   padding: 0px; }
+  .container-fluid .row {
+    padding: 10px; }
 
 header#header .hero {
   min-height: 300px; }
