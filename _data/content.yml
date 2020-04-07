@@ -1,16 +1,3 @@
-#nav:
-#  items:
-#    - text: "Come funziona"
-#      anchor: "come-funziona"
-#    - text: "Cos'è GreenShares"
-#      anchor: "cos-e"
-#    - text: "A chi è rivolto GreenShares"
-#      anchor: "target"
-#    - text: "Come destiniamo i soldi raccolti"
-#      anchor: "come-destiniamo-i-soldi"
-#    - text: "Chi siamo"
-#     anchor: "team"
-
 header:
   headline: "Rendi ogni tuo acquisto un piccolo, concreto contributo per il mondo"
   sub-headline: "Finanzia progetti benefici con ogni tuo acquisto su Amazon effettuato tramite GreenShares.<br> Senza costi aggiuntivi."
@@ -92,4 +79,3 @@ team:
         image: "assets/img/davide-sicignani-web-developer.jpg"
       - name: "Edoardo Erriu"
         image: "assets/img/edoardo-maria-erriu-web-marketing.jpg"
-        
