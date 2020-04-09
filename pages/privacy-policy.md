@@ -57,7 +57,7 @@ La base giuridica è:
 4. per il paragrafo 1.4, _Newsletter_, il _consenso_.
 
 ### 5 - CHI TRATTA I DATI? E COM’È POSSIBILE CONTATTARLO?
-Il Titolare del trattamento è Sprint Studio S.r.l.s (P.I. 02927320594 - C.F. E REG. IMPRESE), con sede in Via M. Amati n. 10, 04019, Terracina (email: INSERIRE EMAIL, PEC: INSERIRE PEC) (“Titolare”).
+Il Titolare del trattamento è Sprint Studio S.r.l.s (P.I. 02927320594), con sede in Via M. Amati n. 10, 04019, Terracina (email: davide@sprintstudio.co, PEC: sprintstudio@pec.it) (“Titolare”).
 
 ### 6 - CHI SONO I DESTINATARI DEI DATI?
 I dati personali raccolti sono trattati dal personale del Titolare, che agisce sulla base di specifiche istruzioni fornite in ordine a finalità e modalità del trattamento medesimo.
