@@ -73,9 +73,7 @@ team:
   section-title: "Chi siamo"
   section-content:
     paragraphs:
-      - "Siamo Sprint Studio, ci piace creare progetti che siano di aiuto alle persone e vogliamo fare qualcosa per migliorare il futuro nostro e di tutti."
+      - "Siamo Edoardo e Davide, e con Sprint Studio ci piace creare progetti che siano di aiuto alle persone e vogliamo fare qualcosa per migliorare il futuro nostro e di tutti."
     members:
-      - name: "Davide Sicignani"
-        image: "assets/img/davide-sicignani-web-developer.jpg"
-      - name: "Edoardo Erriu"
-        image: "assets/img/edoardo-maria-erriu-web-marketing.jpg"
+      - name: ""
+        image: "assets/img/team-greenshares.jpg"

@@ -31,6 +31,13 @@ a {
   a:hover {
     color: #00a388; }
 
+img,
+img.features-img {
+  border-radius: 20px; }
+
+img.featured-img {
+  width: 200px; }
+
 body {
   font-family: "Fira Sans", sans-serif;
   border-top: 5px solid #79bd8f; }

@@ -50,6 +50,15 @@ a {
   }
 }
 
+img,
+img.features-img {
+  border-radius: 20px;
+}
+img.featured-img {
+  width: 200px;
+
+}
+
 body {
   font-family: "Fira Sans", sans-serif;
   border-top: 5px solid $soft-green;

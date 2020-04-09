@@ -2,6 +2,7 @@
 layout: page
 permalink: /chi-siamo
 title: Chi siamo
+featured-image: "assets/img/team-greenshares.jpg"
 ---
 
 GreenShares è nato dalla nostra passione per la natura e dalla voglia di essere di fare qualcosa per tutti noi, per il nostro futuro.
