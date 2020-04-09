@@ -8,7 +8,9 @@
             <div class="col-12 mb-2">
               <h1>{{ page.title }}</h1>
               <p>{{ page.subtitle }}</p>
-              <img src="{{ page.featured-image }}" class="featured-img" alt="..." />
+              {% if page.featured-image %}
+                <img src="{{ page.featured-image }}" class="featured-img" alt="..." />
+              {% endif %}
             </div>
           </div>
         </div>
