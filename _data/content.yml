@@ -22,7 +22,7 @@ how-it-works:
   section-content: 
     paragraphs:
       - "Com’è possibile che grazie ai tuoi acquisti puoi fare una donazione?" 
-      - "In qualità di Affiliato Amazon, GreenShares riceverà un guadagno dagli acquisti idonei. Non ti verrà addebitato nessun costo aggiuntivo."
+      - "In qualità di Affiliato Amazon, GreenShares riceverà un guadagno dagli acquisti idonei. <b>Non ti verrà addebitato nessun costo aggiuntivo</b>."
   primary-btn-text: ""
   secondary-btn-text: ""
   sub-sections:
@@ -30,7 +30,7 @@ how-it-works:
       section-content: 
         paragraphs:
           - "Nella barra dedicata inserisci il link del prodotto che vuoi acquistare."
-          - "Clicca sul bottone “Acquistalo ora”, che ti rimanderà alla stessa pagina prodotto di Amazon, passaggio necessario per tramutare il tuo acquisto in una donazione."
+          - "Clicca sul bottone “Acquistalo ora”, che ti rimanderà alla stessa pagina prodotto di Amazon. <br><b>Attenzione:</b> questo passaggio è necessario per rendere il tuo acquisto una donazione."
           - "Goditi l’esperienza di acquisto di Amazon. Da questo momento in poi potrai aggiungere eventuali altri prodotti e terminare il tuo acquisto. <br><b>Attenzione:</b> ti consigliamo di completare l’acquisto entro 24 ore." 
     - section-title: "Trasparenza"
       section-content:
@@ -43,7 +43,7 @@ what-is:
   section-content: 
     paragraphs:
       - "Gli ultimi tragici avvenimenti come gli incendi in Australia, lo scioglimento dei ghiacciai e la pandemia del COVID-19 ci hanno fatto riflettere più del solito. Ci hanno fatto capire quanto il nostro ecosistema e la nostra società siano fragili, motivo per cui ora più che mai dobbiamo impegnarci nel cercare di arginare questo problema."
-      - "Sappiamo che aiutare il pianeta usando aziende come Amazon che presentano un’importa di carbonio elevatissima non è il massimo, ma questa è la situazione attuale e la sfrutteremo a nostro vantaggio per fare del bene."
+      - "Sappiamo che usare aziende come Amazon che presentano un'impronta di carbonio elevatissima per aiutare il nostro pianeta non è la soluzione più ecologica, ma questa è la situazione attuale e vogliamo usarla a nostro vantaggio per fare del bene."
       - "<span class='display-6'>Non ti spingeremo ad acquistare di più</span>"
       - "Vogliamo infatti che utilizzi GreenShares soltanto in caso di necessità, ovvero ogni volta che sarai sicuro di dover acquistare un prodotto."
   primary-btn-text: ""
@@ -64,8 +64,8 @@ charity:
   section-content:
       paragraphs:
         - "Ogni progetto inizia sempre da motivazioni e circostanze personali che ti portano a muovere i primi passi, sperando di riuscire a realizzarlo. GreenShares nasce proprio da questo mix di fattori."
-        - "L’emergenza del COVID-19 ha fatto riscoprire l’importanza del sostegno della ricerca e del sistema sanitario nazionale, a cui ci sentiamo di dover contribuire attivamente. Lo stesso vale per l’istruzione. In un Paese in cui non viene riconosciuto il giusto livello di importanza alla formazione ed istruzione, noi come privati dobbiamo attivarci per far si che noi in primis e i nostri figli possano godere di un adeguato livello di istruzione e di competenze che rispecchi le effettive esigenze del mercato."
-        - "Tutto quello che raccoglieremo verrà devoluto interamente ai progetti, noi non ci guadagniamo niente."
+        - "In questo momento molto delicato abbiamo pensato di donare tutti i proventi all’Ospedale San Raffaele di Milano."
+        - "<b>Tutto quello che raccoglieremo verrà devoluto interamente ai progetti, noi non ci guadagniamo niente.</b>"
         - "Se conosci un progetto che pensi valga la pena supportare o anche solo far conoscere, scrivici!"
   primary-btn-text: "Consigliaci un progetto"
 
