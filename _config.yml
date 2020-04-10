@@ -7,6 +7,10 @@ url: https://greenshares.it
 description: ""
 keywords: ""
 meta_author: Sprint Studio
+logo: "assets/img/logo-greenshares.png"
+author: Sprint Studio
+facebook:
+  publisher: greenshares.it
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
