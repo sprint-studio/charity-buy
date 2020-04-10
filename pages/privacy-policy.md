@@ -6,7 +6,7 @@ permalink: /privacy-policy
 ---
 
 ## PREMESSA
-Sprint Studio S.r.l.s. dedica da sempre una particolare attenzione alla tutela dei dati personali. Con questa informativa (che è resa in conformità al c.d. GDPR, ossia il Regolamento (UE) 2016/679, di seguito "Regolamento" o “GDPR”), Sprint Studio S.r.l.s. descrive le modalità di trattamento dei dati personali degli utenti (“Interessati”) che consultano e che utilizzano il presente sito web, accessibile all’indirizzo INSERIRE DOMINIO (“Sito”). Non riguarda, invece, altri siti o servizi online esterni eventualmente raggiungibili tramite link presenti nel Sito.
+Sprint Studio S.r.l.s. dedica da sempre una particolare attenzione alla tutela dei dati personali. Con questa informativa (che è resa in conformità al c.d. GDPR, ossia il Regolamento (UE) 2016/679, di seguito "Regolamento" o “GDPR”), Sprint Studio S.r.l.s. descrive le modalità di trattamento dei dati personali degli utenti (“Interessati”) che consultano e che utilizzano il presente sito web, accessibile all’indirizzo https://greenshares.it (“Sito”). Non riguarda, invece, altri siti o servizi online esterni eventualmente raggiungibili tramite link presenti nel Sito.
 
 ## INDICE
 SEZIONE 1 – PRIVACY POLICY
