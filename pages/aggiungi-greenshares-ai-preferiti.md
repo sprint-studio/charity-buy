@@ -30,10 +30,10 @@ Cerca nell’elenco le istruzioni per il tuo dispositivo, se non dovessi trovarl
 - [Microsoft Edge (ex Internet Explorer)](#pc-edge)
 
 
-<span id=”android”></span>
+<span id="android"></span>
 ## Come aggiungere GreenShares al tuo smartphone Android
 
-<span id=”android-chrome”></span>
+<span id="android-chrome"></span>
 ### Aggiungere GreenShares alla home del tuo smartphone Android da Google Chrome
 Sia che tu visiti il sito web dall’applicazione ufficiale Google Chrome o dal widget aggiunto di default alla tua schermata Home, puoi aggiungere un collegamento rapido a GreenShares.it sulla tua home seguendo questi semplici passaggi:
 1. Clicca sull’icona dei tre puntini posizionata in alto a destra dello schermo
@@ -41,7 +41,7 @@ Sia che tu visiti il sito web dall’applicazione ufficiale Google Chrome o dal 
 3. Scegli se rinominare il collegamento o mantenere il testo suggerito
 4. Fatto!
 
-<span id=”android-firefox”></span>
+<span id="android-firefox"></span>
 ## Aggiungere GreenShares alla home del tuo smartphone Android da Mozilla Firefox
 Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home del tuo smartphone Android da Mozilla Firefox:
 1. Clicca sull’icona dei tre puntini posizionata in alto a destra dello schermo
@@ -49,7 +49,7 @@ Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home
 3. Conferma di voler aggiungere il collegamento alla home
 4. Fatto!
 
-<span id=”android-edge”></span>
+<span id="android-edge"></span>
 ## Aggiungere GreenShares alla home del tuo smartphone Android da Microsoft Edge
 Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home del tuo smartphone Android da Microsoft Edge:
 1. Clicca sull’icona dei tre puntini posizionata in basso al centro dello schermo
@@ -57,7 +57,7 @@ Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home
 3. Scegli se rinominare il collegamento o mantenere il testo suggerito
 4. Fatto!
 
-<span id=”android-opera”></span>
+<span id="android-opera"></span>
 ## Aggiungere GreenShares alla home del tuo smartphone Android da Opera
 Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home del tuo smartphone Android da Opera:
 1. Clicca sull’icona dei tre puntini posizionata in alto a destra dello schermo
@@ -65,7 +65,7 @@ Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home
 3. Scegli se rinominare il collegamento o mantenere il testo suggerito
 4. Fatto!
 
-<span id=”android-opera-touch”></span>
+<span id="android-opera-touch"></span>
 ## Aggiungere GreenShares alla home del tuo smartphone Android da Opera Touch
 Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home del tuo smartphone Android da Opera Touch:
 1. Clicca sull’icona dei tre puntini posizionata in alto a destra dello schermo
@@ -74,7 +74,7 @@ Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home
 4. Scegli se rinominare il collegamento o mantenere il testo suggerito
 5. Fatto!
 
-<span id=”android-opera-mini”></span>
+<span id="android-opera-mini"></span>
 ## Aggiungere GreenShares alla home del tuo smartphone Android da Opera Mini
 Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home del tuo smartphone Android da Opera Mini:
 1. Clicca sull’icona dei tre puntini posizionata in alto a destra dello schermo
@@ -82,7 +82,7 @@ Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home
 3. Scegli se rinominare il collegamento o mantenere il testo suggerito
 4. Fatto!
 
-<span id=”android-samsung-internet”></span>
+<span id="android-samsung-internet"></span>
 ## Aggiungere GreenShares alla home del tuo smartphone Android da Samsung Internet
 Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home del tuo smartphone Android da Samsung Internet:
 1. Clicca sull’icona con le tre barre in basso a destra dello schermo
@@ -91,7 +91,7 @@ Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home
 4. Scegli se rinominare il collegamento o mantenere il testo suggerito
 5. Fatto!
 
-<span id=”android-bing”></span>
+<span id="android-bing"></span>
 ## Aggiungere GreenShares alla home del tuo smartphone Android da Bing
 Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home del tuo smartphone Android da Bing:
 1. Clicca sull’icona dei tre puntini posizionata in alto a destra dello schermo
@@ -100,10 +100,10 @@ Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home
 4. Fatto!
 
 
-<span id=”iphone”></span>
+<span id="iphone"></span>
 ## Come aggiungere GreenShares al tuo iPhone
 
-<span id=”iphone-safari”></span>
+<span id="iphone-safari"></span>
 ## Aggiungere GreenShares alla home del tuo iPhone da Safari
 Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home del tuo iPhone da Safari:
 1. Clicca sull’icona della condivisione in basso nello schermo
@@ -111,7 +111,7 @@ Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home
 3. Scegli se rinominare il collegamento o mantenere il testo suggerito
 4. Fatto!
 
-<span id=iphone-chrome”></span>
+<span id="iphone-chrome"></span>
 ## Aggiungere GreenShares alla home del tuo smartphone iPhone da Google Chrome
 Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home del tuo iPhone da Google Chrome:
 1. Clicca sull’icona dei tre puntini posizionata in alto a destra dello schermo
@@ -120,10 +120,10 @@ Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella home
 4. Fatto!
 
 
-<span id=”pc”></span>
+<span id="pc"></span>
 ## Come aggiungere GreenShares al tuo PC
 
-<span id=”pc-chrome”></span>
+<span id="pc-chrome"></span>
 ### Aggiungere GreenShares alla barra dei preferiti di Google Chrome del tuo PC
 Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella barra dei preferiti di Google Chrome dal tuo PC:
 1. Clicca sull’icona a forma di stella posta alla fine della barra degli indirizzi
@@ -131,7 +131,7 @@ Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella barr
 3. Dall'elenco a tendina affianco alla voce "Cartella" seleziona l'opzione "Barra dei preferiti"
 4. Fatto!
 
-<span id=”pc-firefox”></span>
+<span id="pc-firefox"></span>
 ### Aggiungere GreenShares alla barra dei preferiti di Mozilla Firefox del tuo PC
 Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella barra dei preferiti di Mozilla Firefox dal tuo PC:
 1. Clicca sull’icona a forma di stella a destra della barra degli indirizzi
@@ -139,7 +139,7 @@ Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella barr
 3. Dall'elenco a tendina sotto la voce "Cartella:" seleziona "Barra dei segnalibri"
 4. Fatto!
 
-<span id=”pc-edge”></span>
+<span id="pc-edge"></span>
 ### Aggiungere GreenShares alla barra dei preferiti di Microsoft Edge del tuo PC
 Segui questi passaggi per aggiungere il collegamento a GreenShares.it nella barra dei preferiti di Microsoft Edge dal tuo PC:
 1. Clicca sull’icona a forma di stella a destra della barra degli indirizzi
