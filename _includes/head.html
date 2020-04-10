@@ -33,6 +33,26 @@
   <meta name="description" content="{{ site.description }}" />
   <meta name="keywords" content="{{ site.keywords }}" />
   <meta name="author" content="{{ site.meta_author }}" />
+
+
+  {% if seo_tag.image %} 
+    <meta property="og:image" content="{{ seo_tag.image.path }}" /> 
+    {% if seo_tag.image.height %} 
+      <meta property="og:image:height" content="{{ seo_tag.image.height }}" /> 
+    {% endif %} 
+    {% if seo_tag.image.width %} 
+      <meta property="og:image:width" content="{{ seo_tag.image.width }}" /> 
+    {% endif %} 
+  {% endif %} 
+
+
+  {% if seo_tag.image %} 
+    <meta name="twitter:card" content="{{ page.twitter.card | default: site.twitter.card | default: "summary_large_image" }}" /> 
+    <meta property="twitter:image" content="{{ seo_tag.image.path }}" /> 
+    {% else %} 
+    <meta name="twitter:card" content="summary" /> 
+  {% endif %} 
+
   <link
     rel="canonical"
     href="{{ page.url | replace:'index.html','' | prepend: site.url }}"
@@ -85,4 +105,6 @@
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
+
+  {% seo %}
 </head>
