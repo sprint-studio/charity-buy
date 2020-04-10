@@ -12,3 +12,5 @@ meta_author: Sprint Studio
 social:
     - title: twitter
       url: http://twitter.com/00taffe
+
+plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
