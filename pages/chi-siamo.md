@@ -5,7 +5,7 @@ title: Chi siamo
 featured-image: "assets/img/team-greenshares.jpg"
 ---
 
-GreenShares è nato dalla nostra passione per la natura e dalla voglia di essere di fare qualcosa per tutti noi, per il nostro futuro.
+GreenShares è nato dalla nostra passione per la natura e dalla voglia di fare qualcosa per tutti noi, per il nostro futuro.
 Siamo Edoardo e Davide, amiamo il campeggio, la montagna in tutte le stagioni e siamo maker. Ci piace creare progetti che siano di aiuto a noi e a tutte le persone che presentano le nostre stesse necessità. Per questo motivo abbiamo creato <a href="http://sprintstudio.co" target="_blank">Sprint Studio</a>, l'azienda grazie alla quale è nata GreenShares.
 
 Prima di essere soci siamo amici. Viviamo e lavoriamo in due città diverse, Edoardo a Bologna come web marketer e Davide a Milano come web developer, ma ogni volta che possiamo ci ritroviamo per passare un po' di tempo insieme e scambiarci nuove idee. È stato grazie a questi incontri che sono nati alcuni dei progetti di cui andiamo più fieri, con GreenShares al primo posto.
