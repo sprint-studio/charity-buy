@@ -2,13 +2,16 @@
 name: "GreenShares"
 title: "GreenShares: rendi ogni tuo acquisto su Amazon una donazione"
 description: "Ogni acquisto effettuato su Amazon tramite GreenShares genererà una commissione che verrà devoluta interamente in beneficenza. Scopri come."
+image:
+  path: assets/img/greenshares-preview-image.png
+logo: assets/img/logo-greenshares.png
+
+meta_author: Sprint Studio
+author: Sprint Studio
 email: greenshares@sprintstudio.co
 url: https://greenshares.it
-description: ""
+
 keywords: ""
-meta_author: Sprint Studio
-logo: "assets/img/logo-greenshares.png"
-author: Sprint Studio
 facebook:
   publisher: greenshares.it
 
@@ -17,4 +20,7 @@ social:
     - title: twitter
       url: http://twitter.com/00taffe
 
-plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
