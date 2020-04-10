@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Entra nella famiglia di GreenShares
+title: Cosa otterrai entrando a far parte di GreenShares
 description: Entra a far parte della famiglia di GreenShares. Rimani aggiornato sugli sviluppi dei progetti e su come verranno destinate le donazioni.
 permalink: /entra-in-greenshares
 ---
 
-## Cosa otterrai entrando a far parte di GreenShares
 GreenShares è appena nato, quindi non abbiamo ancora sviluppato tutte le funzionalità che vorremmo mettere a tua disposizione. Stiamo lavorando sodo per pubblicarle il prima possibile. Eccoti un’anticipazione:
 - A breve potrai ricevere una **newsletter mensile del ricavato**, del devoluto e delle prossime campagne che supporteremo
 -	Potrai sbloccare badge in base a quanti amici coinvolgerai nell’uso di greenshares.it e a quante donazioni genereranno i tuoi acquisti

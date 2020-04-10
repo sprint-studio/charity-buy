@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Aggiungi GreenShares su PC e smartphone - GreenShares
+title: Tieni GreenShares sempre vicino a te
 description: Trasforma ogni tuo acquisto su Amazon in una donazione. Leggi la guida e scopri come avere GreenShares sempre vicino a te sia su PC che smartphone.
 permalink: /aggiungi-greenshares-ai-preferiti
 ---
 
-# Tieni GreenShares sempre vicino a te
 Stiamo lavorando senza sosta per rendere GreenShares più semplice e piacevole da usare e sempre vicino a te.
 Nel frattempo se vuoi avere sempre a portata di mano il sito per rendere ogni tuo acquisto una donazione, ti suggeriamo di aggiungerlo ai preferiti sul tuo browser preferito per desktop e di creare un collegamento nella home del tuo smartphone.
 Cerca nell’elenco le istruzioni per il tuo dispositivo, se non dovessi trovarle non esitare a scriverci a [edoardo@GreenShares.it](mailto:edoardo@sprintstudio.co).
