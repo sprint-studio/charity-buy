@@ -1,264 +1,124 @@
-.bg-dark-green {
-  background-color: #00a388; }
+.bg-dark-green { background-color: #00a388; }
 
-h2,
-h3,
-h4 {
-  color: #00a388; }
+h2, h3, h4 { color: #00a388; }
 
-h2 {
-  font-weight: 900; }
+h2 { font-weight: 900; }
 
-.display-6 {
-  font-size: 25px; }
+.display-6 { font-size: 25px; }
 
-.btn {
-  border: none;
-  border-radius: 5px;
-  padding: 10px 30px 10px 30px; }
-  .btn.btn-primary {
-    background-color: #00a388;
-    box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.2); }
-  .btn.btn-success {
-    background-color: #00a388; }
+.btn { border: none; border-radius: 5px; padding: 10px 30px 10px 30px; }
 
-a {
-  color: #00a388;
-  text-decoration: underline;
-  font-weight: normal; }
-  a.btn {
-    text-decoration: none; }
-  a:hover {
-    color: #00a388; }
+.btn.btn-primary { background-color: #00a388; box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.2); }
 
-img,
-img.features-img {
-  border-radius: 20px; }
+.btn.btn-success { background-color: #00a388; }
 
-img.featured-img {
-  width: 200px; }
+a { color: #00a388; text-decoration: underline; font-weight: normal; }
 
-body {
-  font-family: "Fira Sans", sans-serif;
-  border-top: 5px solid #79bd8f; }
+a.btn { text-decoration: none; }
 
-nav {
-  background-color: #00a388; }
-  nav .navbar-brand img {
-    padding: 7px;
-    width: 170px; }
+a:hover { color: #00a388; }
 
-section {
-  margin-top: 80px;
-  padding-left: 15px;
-  padding-right: 15px; }
-  section .section-title {
-    margin-bottom: 20px;
-    color: #00a388;
-    font-weight: 900; }
-    section .section-title:after {
-      content: "";
-      display: block;
-      width: 10%;
-      padding-top: 10px;
-      border-bottom: 4px solid #79bd8f; }
+img, img.features-img { border-radius: 20px; }
 
-.page h2,
-.page h3,
-.page h4,
-.post h2,
-.post h3,
-.post h4 {
-  margin-top: 40px; }
-.page h2:after,
-.page h3:after,
-.post h2:after,
-.post h3:after {
-  content: "";
-  display: block;
-  width: 10%;
-  padding-top: 10px;
-  border-bottom: 4px solid #79bd8f; }
+img.featured-img { width: 200px; }
 
-mark {
-  font-weight: 500;
-  background-color: #ffff9d; }
+body { font-family: "Fira Sans", sans-serif; border-top: 5px solid #79bd8f; }
 
-.container-fluid {
-  padding: 0px; }
-  .container-fluid .row {
-    padding: 10px; }
+nav { background-color: #00a388; }
 
-header#header .hero {
-  min-height: 300px; }
-header .hero {
-  min-height: 200px;
-  background-color: #00a388;
-  color: #beeb9f;
-  padding-top: 60px;
-  text-align: center; }
-header h1 {
-  color: white;
-  font-weight: 500;
-  font-style: italic; }
-header .jumbotron {
-  min-height: 100px;
-  background-color: white;
-  margin-top: -80px;
-  padding: 50px 50px 20px 50px;
-  border: 1px solid #beeb9f; }
-  header .jumbotron p {
-    text-align: left;
-    font-size: 15px; }
-header .input-group {
-  padding: 10px;
-  border-radius: 5px;
-  background: #beeb9f; }
-  header .input-group input {
-    background: transparent;
-    border: none; }
-    header .input-group input:focus {
-      box-shadow: none;
-      background: transparent; }
-  header .input-group button {
-    border-radius: 5px !important; }
-header .charity-campaign {
-  box-shadow: 0px 0px 20px #beeb9f; }
-  header .charity-campaign img.campaign-logo {
-    width: 100px;
-    margin-bottom: 20px; }
-@media (max-width: 568px) {
-  header .jumbotron {
-    margin-top: 0px;
-    padding: 20px 20px; }
-    header .jumbotron .form-control {
-      padding: 30px;
-      background-color: #beeb9f; }
-    header .jumbotron .btn {
-      width: 100%; } }
+nav .navbar-brand img { padding: 7px; width: 170px; }
 
-.media-image p {
-  color: #00a388;
-  font-size: 30px;
-  font-weight: 800; }
+section { margin-top: 80px; padding-left: 15px; padding-right: 15px; }
 
-#how-it-works .media {
-  border: 2px solid #79bd8f;
-  box-shadow: inset 0px 0px 10px rgba(121, 189, 143, 0.4);
-  margin-top: 20px;
-  padding: 20px;
-  border-radius: 10px; }
-  #how-it-works .media .media-title {
-    font-style: italic; }
-  #how-it-works .media .media-content {
-    font-weight: 300; }
+section .section-title { margin-bottom: 20px; color: #00a388; font-weight: 900; }
 
-#team {
-  padding-top: 40px;
-  padding-bottom: 40px;
-  color: white; }
-  #team .section-title {
-    color: white; }
-  #team .card {
-    background-color: transparent; }
-    #team .card img {
-      border-radius: 20px; }
-    #team .card .card-title {
-      font-weight: 500;
-      font-style: italic; }
-    #team .card .card-body {
-      background-color: transparent;
-      font-weight: 300; }
+section .section-title:after { content: ""; display: block; width: 10%; padding-top: 10px; border-bottom: 4px solid #79bd8f; }
 
-#call-to-action .jumbotron {
-  background-color: transparent; }
+.page h2, .page h3, .page h4, .post h2, .post h3, .post h4 { margin-top: 40px; }
 
-footer {
-  padding-top: 20px;
-  padding-bottom: 10px;
-  color: #00a388;
-  font-size: 12px;
-  background-color: rgba(190, 235, 159, 0.3); }
+.page h2:after, .page h3:after, .post h2:after, .post h3:after { content: ""; display: block; width: 10%; padding-top: 10px; border-bottom: 4px solid #79bd8f; }
+
+mark { font-weight: 500; background-color: #ffff9d; }
+
+.container-fluid { padding: 0px; }
+
+.container-fluid .row { padding: 10px; }
+
+header#header .hero { min-height: 300px; }
+
+header .hero { min-height: 200px; background-color: #00a388; color: #beeb9f; padding-top: 60px; text-align: center; }
+
+header h1 { color: white; font-weight: 500; font-style: italic; }
+
+header .jumbotron { min-height: 100px; background-color: white; margin-top: -80px; padding: 50px 50px 20px 50px; border: 1px solid #beeb9f; }
+
+header .jumbotron p { text-align: left; font-size: 15px; }
+
+header .input-group { padding: 10px; border-radius: 5px; background: #beeb9f; }
+
+header .input-group input { background: transparent; border: none; }
+
+header .input-group input:focus { box-shadow: none; background: transparent; }
+
+header .input-group button { border-radius: 5px !important; }
+
+header .charity-campaign { box-shadow: 0px 0px 20px #beeb9f; }
+
+header .charity-campaign img.campaign-logo { width: 100px; margin-bottom: 20px; }
+
+@media (max-width: 568px) { header .jumbotron { margin-top: 0px; padding: 20px 20px; }
+  header .jumbotron .form-control { padding: 30px; background-color: #beeb9f; }
+  header .jumbotron .btn { width: 100%; } }
+
+.media-image p { color: #00a388; font-size: 30px; font-weight: 800; }
+
+#how-it-works .media { border: 2px solid #79bd8f; box-shadow: inset 0px 0px 10px rgba(121, 189, 143, 0.4); margin-top: 20px; padding: 20px; border-radius: 10px; }
+
+#how-it-works .media .media-title { font-style: italic; }
+
+#how-it-works .media .media-content { font-weight: 300; }
+
+#team { padding-top: 40px; padding-bottom: 40px; color: white; }
+
+#team .section-title { color: white; }
+
+#team .card { background-color: transparent; }
+
+#team .card img { border-radius: 20px; }
+
+#team .card .card-title { font-weight: 500; font-style: italic; }
+
+#team .card .card-body { background-color: transparent; font-weight: 300; }
+
+#call-to-action .jumbotron { background-color: transparent; }
+
+footer { padding-top: 20px; padding-bottom: 10px; color: #00a388; font-size: 12px; background-color: rgba(190, 235, 159, 0.3); }
 
 /* Cookie Dialog */
-#gdpr-cookie-message {
-  position: fixed;
-  right: 30px;
-  bottom: 30px;
-  max-width: 375px;
-  background-color: #00a388;
-  padding: 20px;
-  border-radius: 5px;
-  box-shadow: 0 6px 6px rgba(0, 0, 0, 0.25);
-  margin-left: 30px;
-  font-family: system-ui; }
+#gdpr-cookie-message { position: fixed; right: 30px; bottom: 30px; max-width: 375px; background-color: #00a388; padding: 20px; border-radius: 5px; box-shadow: 0 6px 6px rgba(0, 0, 0, 0.25); margin-left: 30px; font-family: system-ui; }
 
-#gdpr-cookie-message h4 {
-  color: white;
-  font-family: 'Quicksand', sans-serif;
-  font-size: 18px;
-  font-weight: 500;
-  margin-bottom: 10px; }
+#gdpr-cookie-message h4 { color: white; font-family: 'Quicksand', sans-serif; font-size: 18px; font-weight: 500; margin-bottom: 10px; }
 
-#gdpr-cookie-message h5 {
-  color: white;
-  font-family: 'Quicksand', sans-serif;
-  font-size: 15px;
-  font-weight: 500;
-  margin-bottom: 10px; }
+#gdpr-cookie-message h5 { color: white; font-family: 'Quicksand', sans-serif; font-size: 15px; font-weight: 500; margin-bottom: 10px; }
 
-#gdpr-cookie-message p, #gdpr-cookie-message ul {
-  color: white;
-  font-size: 15px;
-  line-height: 1.5em; }
+#gdpr-cookie-message p, #gdpr-cookie-message ul { color: white; font-size: 15px; line-height: 1.5em; }
 
-#gdpr-cookie-message p:last-child {
-  margin-bottom: 0;
-  text-align: right; }
+#gdpr-cookie-message p:last-child { margin-bottom: 0; text-align: right; }
 
-#gdpr-cookie-message li {
-  width: 49%;
-  display: inline-block; }
+#gdpr-cookie-message li { width: 49%; display: inline-block; }
 
-#gdpr-cookie-message a {
-  color: white;
-  text-decoration: none;
-  font-size: 15px;
-  padding-bottom: 2px;
-  border-bottom: 1px dotted rgba(255, 255, 255, 0.75);
-  transition: all 0.3s ease-in; }
+#gdpr-cookie-message a { color: white; text-decoration: none; font-size: 15px; padding-bottom: 2px; border-bottom: 1px dotted rgba(255, 255, 255, 0.75); transition: all 0.3s ease-in; }
 
-#gdpr-cookie-message a:hover {
-  color: white;
-  border-bottom-color: #00a388;
-  transition: all 0.3s ease-in; }
+#gdpr-cookie-message a:hover { color: white; border-bottom-color: #00a388; transition: all 0.3s ease-in; }
 
-#gdpr-cookie-message button,
-button#ihavecookiesBtn {
-  border: none;
-  background: #ffff9d;
-  color: #00a388;
-  font-family: 'Quicksand', sans-serif;
-  font-size: 15px;
-  padding: 7px;
-  border-radius: 3px;
-  margin-left: 15px;
-  cursor: pointer;
-  transition: all 0.3s ease-in; }
+#gdpr-cookie-message button, button#ihavecookiesBtn { border: none; background: #ffff9d; color: #00a388; font-family: 'Quicksand', sans-serif; font-size: 15px; padding: 7px; border-radius: 3px; margin-left: 15px; cursor: pointer; transition: all 0.3s ease-in; }
 
-#gdpr-cookie-message button:hover {
-  background: white;
-  color: #00a388;
-  transition: all 0.3s ease-in; }
+#gdpr-cookie-message button:hover { background: white; color: #00a388; transition: all 0.3s ease-in; }
 
-button#gdpr-cookie-advanced {
-  background: white;
-  color: #00a388; }
+button#gdpr-cookie-advanced { background: white; color: #00a388; }
 
-#gdpr-cookie-message button:disabled {
-  opacity: 0.3; }
+#gdpr-cookie-message button:disabled { opacity: 0.3; }
 
-#gdpr-cookie-message input[type="checkbox"] {
-  float: none;
-  margin-top: 0;
-  margin-right: 5px; }
+#gdpr-cookie-message input[type="checkbox"] { float: none; margin-top: 0; margin-right: 5px; }
+
+/*# sourceMappingURL=style.css.map */

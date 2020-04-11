@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /chi-siamo
-title: Chi siamo
+title: Chi siamo - GreenShares
+page-title: Chi siamo
 featured-image: "assets/img/team-greenshares.jpg"
 ---
 
@@ -23,4 +24,4 @@ Sappiamo che il sito è migliorabile, perciò se sei un grafico o se ne conosci 
 
 Troverai tutti i dettagli al seguente link.
 
-<a class="btn btn-primary" href="http://sprintstudio.co/join-sprint-studio">Entra nella nostra famiglia</a>
+<a class="btn btn-primary" href="http://sprintstudio.co/it/lavora-con-noi" target="_blank">Entra nella nostra famiglia</a>

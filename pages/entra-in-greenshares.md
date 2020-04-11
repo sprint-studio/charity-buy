@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Cosa otterrai entrando a far parte di GreenShares
+title: Cosa otterrai entrando a far parte di GreenShares - GreenShares
+page-title: Cosa otterrai entrando a far parte di GreenShares
 description: Entra a far parte della famiglia di GreenShares. Rimani aggiornato sugli sviluppi dei progetti e su come verranno destinate le donazioni.
 permalink: /entra-in-greenshares
 ---

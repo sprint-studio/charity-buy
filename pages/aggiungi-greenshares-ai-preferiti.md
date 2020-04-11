@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Tieni GreenShares sempre vicino a te
+title: Tieni GreenShares sempre vicino a te - GreenShares
+page-title: Tieni GreenShares sempre vicino a te
 description: Trasforma ogni tuo acquisto su Amazon in una donazione. Leggi la guida e scopri come avere GreenShares sempre vicino a te sia su PC che smartphone.
 permalink: /aggiungi-greenshares-ai-preferiti
 ---
