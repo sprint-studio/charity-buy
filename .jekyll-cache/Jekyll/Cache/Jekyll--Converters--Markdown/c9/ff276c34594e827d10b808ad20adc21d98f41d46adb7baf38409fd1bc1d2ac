@@ -1,0 +1,54 @@
+I"$<p>GreenShares è appena nato, quindi non abbiamo ancora sviluppato tutte le funzionalità che vorremmo mettere a tua disposizione. Stiamo lavorando sodo per pubblicarle il prima possibile. Eccoti un’anticipazione:</p>
+<ul>
+  <li>A breve potrai ricevere una <strong>newsletter mensile del ricavato</strong>, del devoluto e delle prossime campagne che supporteremo</li>
+  <li>Potrai sbloccare badge in base a quanti amici coinvolgerai nell’uso di greenshares.it e a quante donazioni genereranno i tuoi acquisti</li>
+  <li>Potrai <strong>monitorare le donazioni</strong> che hai effettuato attraverso i tuoi acquisti Amazon</li>
+</ul>
+
+<p>Partecipa al progetto offrendo le tue competenze o proponendo cause da sostenere. Ci piacerebbe che sentissi GreenShares tuo quanto noi lo sentiamo nostro.</p>
+
+<h2 id="partiamo-dal-basso-ma-pensiamo-in-grande">Partiamo dal basso, ma pensiamo in grande:</h2>
+<p>GreenShares non ha una missione, è una missione! Ecco alcuni degli obiettivi da cui prende vita il progetto:</p>
+<ul>
+  <li>Sensibilizzare le persone rispetto alla tutela dell’Ambiente</li>
+  <li>Stringere partnership e supportare le principali Onlus attive in Italia</li>
+  <li>Fare sì che ogni acquisto sia consapevole e benefico</li>
+  <li>Creare una community di persone che condivide interessi, ideali e valori Green</li>
+  <li>Organizzare viaggi e escursioni per valorizzare la Natura che ci circonda, creare nuove relazioni al di fuori della rete</li>
+</ul>
+
+<h2 id="i-prossimi-step-del-progetto">I prossimi step del progetto</h2>
+<p>Ti abbiamo raccontato cosa vogliamo fare, ora siamo pronti a dirti come vogliamo farlo. Ecco cosa abbiamo in mente per il futuro di GreenShares:</p>
+<ul>
+  <li>Integrazione con altri e-commerce e network: più saremo più doneremo</li>
+  <li>Diffusione di GreenShares all’interno di gruppi e community Facebook</li>
+  <li>Possibilità di attivare una campagna di donazioni su GreenShares da parte di associazioni o enti</li>
+  <li>Creazione di un’estensione per browser tramite la quale donare in automatico ogni volta che acquisti da un sito partner</li>
+</ul>
+
+<p><button id="join" class="btn btn-block btn-primary btn-login-facebook">Entra a far parte di GreenShares</button></p>
+
+<div class="row">
+  <div class="col-sm-12 col-md-12">
+    <form action="https://sprintstudio.us11.list-manage.com/subscribe/post?u=baa6a96ac00514e2d994c55e2&amp;id=10b14f6753" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" validate="">
+    <div class="form-group">
+        <input type="text" name="name" class="form-control required email" placeholder="Il tuo nome..." required="" />
+	  </div>
+      <div class="form-group">
+        <input type="email" name="email" class="form-control required email" placeholder="La tua email..." required="" />
+      </div>
+      
+      <div class="form-group">
+        <input type="checkbox" class="form-check-input" placeholder="Devi dare il consenso" value="SI" name="privacy" required="" />
+        <label class="control-label">“Ho letto le privacy policy e autorizzo il trattamento dei miei
+          dati</label>
+      </div>
+      <div class="form-group">
+        <button class="btn btn-primary btn-newsletter" value="Iscriviti" href="">
+          Iscriviti
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+:ET

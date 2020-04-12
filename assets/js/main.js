@@ -60,5 +60,30 @@
         location.reload();
       });
     });
+
+    $(".btn-newsletter").click(function() {
+      alert("qio")
+      let name = $('input[name="name"]').val();
+      let email = $('input[name="email"]').val();
+
+      client.auth
+      .loginWithCredential(new stitch.AnonymousCredential())
+      .then(user => {
+        client
+        .callFunction("Iscrizione_newsletter", [name, email])
+        .then(function(result) {
+          if (result.error) {
+            return alert(result.message);
+          }
+          
+          alert("Iscrizione avvenuta con successo!")
+        });
+      })
+      .catch(err => {
+        console.error(err);
+      });
+
+      
+    });
   });
 })();

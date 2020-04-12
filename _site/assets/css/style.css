@@ -12,6 +12,8 @@ h2 { font-weight: 900; }
 
 .btn.btn-success { background-color: #00a388; }
 
+.btn.btn-login-facebook { background-color: #3b5998; color: white; }
+
 a { color: #00a388; text-decoration: underline; font-weight: normal; }
 
 a.btn { text-decoration: none; }

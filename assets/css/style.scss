@@ -34,6 +34,11 @@ h2 {
   &.btn-success {
     background-color: $dark-green;
   }
+
+  &.btn-login-facebook {
+    background-color: #3b5998;
+    color: white;
+  }
 }
 
 a {

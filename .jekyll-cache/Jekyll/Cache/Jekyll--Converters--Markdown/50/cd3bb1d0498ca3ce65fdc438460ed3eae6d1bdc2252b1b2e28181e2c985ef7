@@ -1,4 +1,4 @@
-I"�<p>GreenShares è appena nato, quindi non abbiamo ancora sviluppato tutte le funzionalità che vorremmo mettere a tua disposizione. Stiamo lavorando sodo per pubblicarle il prima possibile. Eccoti un’anticipazione:</p>
+I"q<p>GreenShares è appena nato, quindi non abbiamo ancora sviluppato tutte le funzionalità che vorremmo mettere a tua disposizione. Stiamo lavorando sodo per pubblicarle il prima possibile. Eccoti un’anticipazione:</p>
 <ul>
   <li>A breve potrai ricevere una <strong>newsletter mensile del ricavato</strong>, del devoluto e delle prossime campagne che supporteremo</li>
   <li>Potrai sbloccare badge in base a quanti amici coinvolgerai nell’uso di greenshares.it e a quante donazioni genereranno i tuoi acquisti</li>
@@ -27,4 +27,28 @@
 </ul>
 
 <p><button id="join" class="btn btn-block btn-primary btn-login-facebook">Entra a far parte di GreenShares</button></p>
+
+<div class="row">
+  <div class="col-sm-12 col-md-12">
+    <form name="form-newsletter" class="validate" target="_blank" validate="">
+    <div class="form-group">
+        <input type="text" name="name" class="form-control required email" placeholder="Il tuo nome..." required="" />
+	  </div>
+      <div class="form-group">
+        <input type="email" name="email" class="form-control required email" placeholder="La tua email..." required="" />
+      </div>
+      
+      <div class="form-group">
+        <input type="checkbox" class="form-check-input" placeholder="Devi dare il consenso" value="SI" name="privacy" required="" />
+        <label class="control-label">“Ho letto le privacy policy e autorizzo il trattamento dei miei
+          dati</label>
+      </div>
+      <div class="form-group">
+        <a class="btn btn-primary btn-newsletter" value="Iscriviti" href="">
+          Iscriviti
+        </a>
+      </div>
+    </form>
+  </div>
+</div>
 :ET

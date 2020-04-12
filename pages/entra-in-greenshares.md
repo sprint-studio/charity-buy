@@ -28,5 +28,12 @@ Ti abbiamo raccontato cosa vogliamo fare, ora siamo pronti a dirti come vogliamo
 - Possibilità di attivare una campagna di donazioni su GreenShares da parte di associazioni o enti
 - Creazione di un’estensione per browser tramite la quale donare in automatico ogni volta che acquisti da un sito partner 
 
+<br>
+
+Inserisci qui i tuoi dati
+
+{% include newsletter.html %}
+
+Oppure entra con Facebook
 
 <button id="join" class="btn btn-block btn-primary btn-login-facebook">Entra a far parte di GreenShares</button>
