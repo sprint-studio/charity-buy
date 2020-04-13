@@ -36,6 +36,9 @@
           {% for paragraph in site.data.content.how-it-works.sub-sections[1].section-content.paragraphs %}
             <p>{{ paragraph }}</p>
           {% endfor %}
+          {% if site.data.content.how-it-works.sub-sections[1].primary-btn %}
+            <a class="btn btn-primary" href="{{ site.data.content.how-it-works.sub-sections[1].primary-btn.link }}">{{ site.data.content.how-it-works.sub-sections[1].primary-btn.txt }}</a>
+          {% endif %}
         </div>
       </div>
     </div>

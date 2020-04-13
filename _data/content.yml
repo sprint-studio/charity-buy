@@ -37,6 +37,9 @@ how-it-works:
         paragraphs:
           - "Nella vita di tutti i giorni siamo consulenti, perciò sappiamo quanto sia fondamentale instaurare un rapporto di fiducia con le persone."
           - "Per questo motivo ogni mese pubblicheremo un resoconto del ricavato dalle donazioni e il piano di come andremo ad utilizzarli, in modo da renderti partecipe dei piccoli ma significativi passi che stiamo compiendo tutti assieme."
+      primary-btn:
+        txt: "Approfondisci"
+        link: ./trasparenza
 
 what-is:
   section-title: "Cos’è GreenShares"
