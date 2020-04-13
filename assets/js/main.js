@@ -13,7 +13,7 @@
 
     if (client.auth.isLoggedIn) {
       let user = client.auth.user;
-      
+
       $('[name="user"]').removeAttr("hidden");
       $(".btn-login-facebook").attr("hidden", "");
       $(".btn#join").attr("hidden", "");
@@ -22,7 +22,6 @@
 
     var trackedLink = "";
     $('form[name="link-generator"] .btn').click(function () {
-      window.dataLayer.push({ event: "genera-link" });
       let amazonLink = $('input[name="amazon-link"]').val();
 
       if (!client.auth.isLoggedIn) {
@@ -42,6 +41,7 @@
             return alert(result.message);
           }
 
+          window.dataLayer.push({ event: "genera-link" });
           $('.btn[name="redirect-amazon"').removeAttr("hidden");
           $('.btn[name="genera-link"').attr("hidden", "");
           trackedLink = result;
