@@ -40,7 +40,11 @@
             </div>
           </div>
         </form>
-        <form name="link-generator" class="d-block d-sm-none d-md-none">
+        <form
+          name="link-generator"
+          class="d-block d-sm-none d-md-none"
+          onsubmit="return false;"
+        >
           <div class="form-group">
             <input
               type="text"
@@ -68,6 +72,4 @@
     </div>
   </div>
   {% include charity-campaign.html %}
-
 </header>
-
