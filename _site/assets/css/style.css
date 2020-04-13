@@ -1,3 +1,6 @@
+/** UI utils */
+.hidden, [hidden='hidden'] { display: none !important; }
+
 .bg-dark-green { background-color: #00a388; }
 
 h2, h3, h4 { color: #00a388; }

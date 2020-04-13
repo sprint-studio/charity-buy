@@ -42,7 +42,7 @@
 
   <link
     rel="canonical"
-    href="http://localhost:4000/"
+    href="http://0.0.0.0:4000/"
   />
   <link
     rel="alternate"
@@ -97,13 +97,13 @@
 <meta property="og:locale" content="it" />
 <meta name="description" content="Ogni acquisto effettuato su Amazon tramite GreenShares genererà una commissione che verrà devoluta interamente in beneficenza. Scopri come." />
 <meta property="og:description" content="Ogni acquisto effettuato su Amazon tramite GreenShares genererà una commissione che verrà devoluta interamente in beneficenza. Scopri come." />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
+<link rel="canonical" href="http://0.0.0.0:4000/" />
+<meta property="og:url" content="http://0.0.0.0:4000/" />
 <meta property="og:site_name" content="GreenShares: rendi ogni tuo acquisto su Amazon una donazione" />
-<meta property="og:image" content="http://localhost:4000/assets/img/greenshares-preview-image.png" />
+<meta property="og:image" content="http://0.0.0.0:4000/assets/img/greenshares-preview-image.png" />
 <meta property="article:publisher" content="greenshares.it" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/","headline":"GreenShares: rendi ogni tuo acquisto su Amazon una donazione","author":{"@type":"Person","name":"Sprint Studio"},"name":"GreenShares: rendi ogni tuo acquisto su Amazon una donazione","description":"Ogni acquisto effettuato su Amazon tramite GreenShares genererà una commissione che verrà devoluta interamente in beneficenza. Scopri come.","image":"http://localhost:4000/assets/img/greenshares-preview-image.png","@type":"WebSite","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/logo-greenshares.png"},"name":"Sprint Studio"},"@context":"https://schema.org"}</script>
+{"url":"http://0.0.0.0:4000/","headline":"GreenShares: rendi ogni tuo acquisto su Amazon una donazione","author":{"@type":"Person","name":"Sprint Studio"},"name":"GreenShares: rendi ogni tuo acquisto su Amazon una donazione","description":"Ogni acquisto effettuato su Amazon tramite GreenShares genererà una commissione che verrà devoluta interamente in beneficenza. Scopri come.","image":"http://0.0.0.0:4000/assets/img/greenshares-preview-image.png","@type":"WebSite","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://0.0.0.0:4000/assets/img/logo-greenshares.png"},"name":"Sprint Studio"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -225,14 +225,16 @@
               aria-describedby="basic-addon2"
             />
             <div class="d-none d-md-block input-group-append">
-              <button class="btn btn-primary">
-                Acquistalo ora
+              <button name="genera-link" class="btn btn-primary">
+                Genera link
               </button>
             </div>
 
-            <button class="d-block d-sm-none d-md-none btn btn-primary">
-              Acquistalo ora
+            <button name="genera-link" class="d-block d-sm-none d-md-none btn btn-primary">
+              Genera link
             </button>
+            
+            <button hidden name="redirect-amazon" class="btn btn-primary btn-buy">Acquistalo ora</a>
           </div>
         </form>
         <br />

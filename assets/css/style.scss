@@ -3,6 +3,14 @@
 
 @import "variables";
 
+/**
+* UI utils
+**/
+.hidden,
+[hidden='hidden'] {
+  display: none !important;
+}
+
 .bg-dark-green {
   background-color: $dark-green;
 }
