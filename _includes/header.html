@@ -21,7 +21,7 @@
       <div class="jumbotron text-center">
         <form
           name="link-generator"
-          class="d-none d-md-block"
+          class=""
           onsubmit="return false;"
         >
           <div class="input-group">
@@ -33,31 +33,16 @@
               aria-label=""
               aria-describedby="basic-addon2"
             />
-            <div class="input-group-append">
+            <div class="d-none d-md-block input-group-append">
               <button class="btn btn-primary">
                 {{ site.data.content.header.btn-txt }}
               </button>
             </div>
+
+            <button class="d-block d-sm-none d-md-none btn btn-primary">
+              {{ site.data.content.header.btn-txt }}
+            </button>
           </div>
-        </form>
-        <form
-          name="link-generator"
-          class="d-block d-sm-none d-md-none"
-          onsubmit="return false;"
-        >
-          <div class="form-group">
-            <input
-              type="text"
-              name="amazon-link"
-              class="form-control"
-              placeholder="{{ site.data.content.header.placeholder }}"
-              aria-label=""
-              aria-describedby="basic-addon2"
-            />
-          </div>
-          <button class="btn btn-primary">
-            {{ site.data.content.header.btn-txt }}
-          </button>
         </form>
         <br />
         <p>
