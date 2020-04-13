@@ -87,6 +87,37 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
 
+  <!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function () {
+    FB.init({
+      xfbml: true,
+      version: "v6.0",
+    });
+  };
+
+  (function (d, s, id) {
+    var js,
+      fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://connect.facebook.net/it_IT/sdk/xfbml.customerchat.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  })(document, "script", "facebook-jssdk");
+</script>
+
+<!-- Your customer chat code -->
+<div
+  class="fb-customerchat"
+  attribution="setup_tool"
+  page_id="100476971623351"
+  theme_color="#00a388"
+  logged_in_greeting="Ciao, come possiamo aiutarti?"
+  logged_out_greeting="Ciao, come possiamo aiutarti?"
+></div>
+
   <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Chi siamo - GreenShares | GreenShares: rendi ogni tuo acquisto su Amazon una donazione</title>
 <meta name="generator" content="Jekyll v4.0.0" />
