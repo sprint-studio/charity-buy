@@ -45,9 +45,7 @@ section .section-title:after { content: ""; display: block; width: 10%; padding-
 
 mark { font-weight: 500; background-color: #ffff9d; }
 
-.container-fluid { padding: 0px; }
-
-.container-fluid .row { padding: 10px; }
+.container-fluid { padding-right: 0px; padding-left: 0px; width: 100%; }
 
 header#header .hero { min-height: 300px; }
 
