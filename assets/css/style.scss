@@ -284,7 +284,29 @@ footer {
   padding-top: 20px;
   padding-bottom: 10px;
   color: $dark-green;
-  font-size: 12px;
+
+  .footer-above {
+    h6 {
+      font-weight: bold;
+    }
+    
+    p {
+      font-size: 14px;
+    }
+
+    a.social {
+      font-size: 22px;
+    }
+  }
+
+  .footer-below {
+    font-size: 12px;  
+  }
+
+  .list-inline {
+    font-size: 14px;
+  }
+
   background-color: rgba($color: $light-green, $alpha: 0.3);
 }
 

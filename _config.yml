@@ -17,8 +17,12 @@ facebook:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-    - title: twitter
-      url: http://twitter.com/00taffe
+  - title: facebook
+    url: https://www.facebook.com/greenshares.it/
+  - title: instagram
+    url: https://www.instagram.com/greenshares/
+  - title: linkedin
+    url: https://www.linkedin.com/company/greenshares/
 
 plugins:
   - jekyll-sitemap

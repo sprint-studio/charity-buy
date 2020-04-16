@@ -36,4 +36,6 @@ Inserisci qui i tuoi dati
 
 Oppure entra con Facebook
 
-<button id="join" class="btn btn-block btn-primary btn-login-facebook">Entra a far parte di GreenShares</button>
+<button id="join" class="btn btn-block btn-primary btn-login-facebook">
+<i class="fab fa-facebook"></i>
+Entra a far parte di GreenShares</button>
