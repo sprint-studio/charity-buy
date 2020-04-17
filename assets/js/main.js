@@ -67,8 +67,12 @@
     });
 
     $(".btn-newsletter").click(function () {
-      let name = $('input[name="name"]').val();
-      let email = $('input[name="email"]').val();
+      let name = $('input[name="FNAME"]').val();
+      let email = $('input[name="EMAIL"]').val();
+
+      if(name === "" || email === "") {
+        return;
+      }
 
       client.auth
         .loginWithCredential(new stitch.AnonymousCredential())

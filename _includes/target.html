@@ -6,7 +6,8 @@
           {% for paragraph in site.data.content.target.section-content.paragraphs %}
             <p>{{ paragraph }}</p>
           {% endfor %}
-          <a class="btn btn-primary btn-login-facebook" href="./entra-in-greenshares">{{ site.data.content.target.primary-btn-text }}</a>
+          {% include newsletter.html %}
+          <!--<a class="btn btn-primary btn-login-facebook" href="./entra-in-greenshares">{{ site.data.content.target.primary-btn-text }}</a>-->
       </div>
     </div>
   </section>
