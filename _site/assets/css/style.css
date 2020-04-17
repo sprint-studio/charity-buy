@@ -57,7 +57,7 @@ header .jumbotron { min-height: 100px; background-color: white; margin-top: -80p
 
 header .jumbotron p { text-align: left; font-size: 15px; }
 
-header .input-group { padding: 10px; border-radius: 5px; background: #beeb9f; }
+header .input-group { padding: 10px; border-radius: 5px; background: #beeb9f; box-shadow: none; }
 
 header .input-group input { background: transparent; border: none; }
 
@@ -70,7 +70,7 @@ header .charity-campaign { box-shadow: 0px 0px 20px #beeb9f; }
 header .charity-campaign img.campaign-logo { width: 100px; margin-bottom: 20px; }
 
 @media (max-width: 568px) { header .jumbotron { margin-top: 0px; padding: 20px 20px; }
-  header .jumbotron .form-control { padding: 30px; background-color: #beeb9f; }
+  header .jumbotron .form-control { margin-bottom: 5px; padding: 30px; background-color: #beeb9f; border-radius: 5px !important; border: 1px solid #00a388; box-shadow: none; }
   header .jumbotron .btn { width: 100%; } }
 
 .media-image p { color: #00a388; font-size: 30px; font-weight: 800; }
