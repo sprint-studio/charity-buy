@@ -109,6 +109,15 @@ section {
   }
 }
 
+.card {
+  .card-header {
+    background-color: transparent;
+    
+    button {
+      color:$dark-green !important;
+    }
+  } 
+}
 .page,
 .post {
   h2,

@@ -39,6 +39,10 @@ section .section-title { margin-bottom: 20px; color: #00a388; font-weight: 900; 
 
 section .section-title:after { content: ""; display: block; width: 10%; padding-top: 10px; border-bottom: 4px solid #79bd8f; }
 
+.card .card-header { background-color: transparent; }
+
+.card .card-header button { color: #00a388 !important; }
+
 .page h2, .page h3, .page h4, .post h2, .post h3, .post h4 { margin-top: 40px; }
 
 .page h2:after, .page h3:after, .post h2:after, .post h3:after { content: ""; display: block; width: 10%; padding-top: 10px; border-bottom: 4px solid #79bd8f; }
