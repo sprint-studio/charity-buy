@@ -21,9 +21,11 @@ In qualità di affiliato Amazon, Sprint Studio S.r.l.s., società che detiene Gr
 
 **Cosa si intende per acquisto idoneo?**
 Un acquisto idoneo si verifica quando, dopo aver inserito il link del prodotto nell’apposito form del sito ed essere stati rimandati su Amazon, si completa l’acquisto entro 24 ore. Tutte le casistiche che escono da questa formulazione purtroppo non verranno considerati acquisti idonei.
+
 Se quindi acquisti direttamente su Amazon senza essere passato per GreenShares.it o se inserisci il link sul nostro sito ma poi torni ad acquistarlo dopo 2 giorni, non ci verrà riconosciuto un ricavo.
 
 Nel caso invece di un acquisto idoneo (hai incollato il link del prodotto sul sito e hai acquistato dal nuovo link entro 24 ore), GreenShares riceverà quindi un ricavo.
-Alla fine di ogni mese richiederemo ad Amazon il pagamento di tutti i ricavi generati dagli acquisti idonei. Questo pagamento verrà accompagnato da una **fattura**, che verrà caricata sul sito insieme ad uno **screenshot dei ricavi riportati nella reportistica di vendita**, sempre nella logica della più totale trasparenza.
-Appena riceveremo i fondi, predisporremo un bonifico all’ente beneficiario, che a sua volta ci rilascerà una **ricevuta di avvenuta donazione**. Anche questa verrà caricata sul sito, in modo da dimostrare che tutto il ricavato sarà interamente devoluto in beneficenza.
 
+Alla fine di ogni mese richiederemo ad Amazon il pagamento di tutti i ricavi generati dagli acquisti idonei. Questo pagamento verrà accompagnato da una **fattura**, che verrà caricata sul sito insieme ad uno **screenshot dei ricavi riportati nella reportistica di vendita**, sempre nella logica della più totale trasparenza.
+
+Appena riceveremo i fondi, predisporremo un bonifico all’ente beneficiario, che a sua volta ci rilascerà una **ricevuta di avvenuta donazione**. Anche questa verrà caricata sul sito, in modo da dimostrare che tutto il ricavato sarà interamente devoluto in beneficenza.
