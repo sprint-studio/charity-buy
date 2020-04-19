@@ -24,6 +24,8 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/company/greenshares/
 
+gtm_google: ""
+
 plugins:
   - jekyll-sitemap
   - jekyll-feed

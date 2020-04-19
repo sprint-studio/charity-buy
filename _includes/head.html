@@ -1,5 +1,6 @@
 <head>
   <!-- Google Tag Manager -->
+  {% assign gtm_google = site.gtm_google %}
   <script>
     (function(w, d, s, l, i) {
       w[l] = w[l] || [];
@@ -10,7 +11,7 @@
       j.async = true;
       j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
       f.parentNode.insertBefore(j, f);
-    })(window, document, "script", "dataLayer", "GTM-58QB2BH");
+    })(window, document, "script", "dataLayer", {{ gtm_google }});
   </script>
   <!-- End Google Tag Manager -->
 
